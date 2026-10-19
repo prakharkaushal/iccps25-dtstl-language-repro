@@ -1,0 +1,26 @@
+# E6: robustness-BO control baseline (paper Sec. 4.3 text: "BO consistently requires 3-7x the number of
+# iterations" of LCW; no table in the paper). Reduced scale (D24): 50 replications per objective.
+experiment: control_bo
+seed_base: 3000
+reps: 50                        # D24 (paper: "preliminary experiments", count not stated)
+specs: [phi1, phi2, phi3, phi4, phi5, phi6, phi7, phi8]
+bo:                             # same GP/EI settings as falsification (D6); budget D23
+  n_init: 5
+  max_iter: 200
+  n_uniform: 1000
+  n_local: 1000
+  local_scales: [0.02, 0.1]
+  top_k: 5
+  xi: 0.0
+uav:                            # identical to configs/control.yaml (D14)
+  m: 0.5
+  Ix: 0.005
+  Iy: 0.005
+  Iz: 0.009
+  g: 9.81
+tracker:                        # identical to configs/control.yaml (D15, D20)
+  kp_x: 4.0
+  kd_x: 4.0
+  tilt_max_deg: 35.0
+  dt: 0.01
+  sample_period: 1.0

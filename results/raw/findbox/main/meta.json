@@ -1,0 +1,62 @@
+{
+ "experiment": "findbox",
+ "run_id": "main",
+ "created": "2026-10-18T21:24:46",
+ "sessions": [
+  {
+   "started": "2026-10-18T21:24:46",
+   "argv": [
+    "experiments/run_findbox.py",
+    "--config",
+    "configs/findbox.yaml",
+    "--run-id",
+    "main",
+    "--workers",
+    "10"
+   ],
+   "source_sha256": "8ffecf40b85ead6c300e6cda8717e5ae7c7f9f1fbc70d10ce29bca8557526750",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   }
+  }
+ ],
+ "config": {
+  "experiment": "findbox",
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5"
+  ],
+  "variants": {
+   "default": {
+    "bounds": [
+     0,
+     100
+    ],
+    "n_samples": 1000,
+    "sampler": "integer",
+    "seed": 0
+   },
+   "besteffort": {
+    "bounds": [
+     0,
+     70
+    ],
+    "n_samples": 1000,
+    "sampler": "continuous",
+    "seed": 0
+   }
+  }
+ }
+}

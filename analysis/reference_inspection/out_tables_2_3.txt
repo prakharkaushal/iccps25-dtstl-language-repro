@@ -1,0 +1,62 @@
+TABLE 2 (re-derived from stored pkl files)
+env | mech | ver | GA time +-CI | GA ER +-CI | GA safe% [key] | PPO time +-CI | PPO ER +-CI | PPO safe% [key] | xSpeedUp | n(GA,PPO)
+CartPole-v0 | rta | 1.5 | 11.09+-2.0 | 200.0+-0.0 | 100.0 [norm_safe_rolls] | 178.03+-12.0 | 198.82+-0.9 | 100.0 [mask_safe_rolls] | 16.05 | (5,5)
+CartPole-v0 | rta | 1.25 | 10.9+-1.0 | 200.0+-0.0 | 100.0 [norm_safe_rolls] | 192.71+-10.0 | 197.97+-1.0 | 100.0 [mask_safe_rolls] | 17.68 | (5,5)
+CartPole-v0 | rta | 1.0 | 10.57+-1.0 | 199.66+-0.2 | 100.0 [norm_safe_rolls] | 184.73+-4.0 | 199.64+-0.3 | 100.0 [mask_safe_rolls] | 17.48 | (5,5)
+CartPole-v0 | rta | 0.75 | 15.41+-4.0 | 166.53+-2.0 | 100.0 [norm_safe_rolls] | 149.72+-7.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 9.72 | (5,5)
+CartPole-v0 | rta | 0.5 | 14.71+-10.0 | 199.89+-0.1 | 100.0 [norm_safe_rolls] | 122.97+-1.0 | 199.18+-0.9 | 95.0 [mask_safe_rolls] | 8.36 | (5,5)
+CartPole-v0 | rta | 0.25 | 12.84+-9.0 | 158.5+-3.3 | 100.0 [norm_safe_rolls] | 150.36+-10.0 | 199.81+-0.4 | 100.0 [mask_safe_rolls] | 11.71 | (5,5)
+CartPole-v0 | am | 1.5 | 38.68+-9.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 147.9+-19.0 | 199.54+-0.6 | 25.0 [mask_safe_rolls] | 3.82 | (5,5)
+CartPole-v0 | am | 1.25 | 56.46+-18.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 418.02+-162.0 | 199.47+-0.3 | 60.0 [mask_safe_rolls] | 7.4 | (5,5)
+CartPole-v0 | am | 1.0 | 58.24+-15.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 246.78+-8.0 | 199.89+-0.2 | 100.0 [mask_safe_rolls] | 4.24 | (5,5)
+CartPole-v0 | am | 0.75 | 51.23+-14.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 418.55+-159.0 | 199.91+-0.2 | 85.0 [mask_safe_rolls] | 8.17 | (5,5)
+CartPole-v0 | am | 0.5 | 167.73+-19.0 | 199.99+-0.0 | 100.0 [mask_safe_rolls] | 159.06+-3.0 | 196.4+-1.4 | 95.0 [mask_safe_rolls] | 0.95 | (5,5)
+CartPole-v0 | am | 0.25 | 132.44+-68.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 156.45+-3.0 | 200.0+-0.0 | 100.0 [mask_safe_rolls] | 1.18 | (5,5)
+FrozenLake-v1 | rta | 8 | 5.49+-nan | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 18344.54+-10267.0 | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 3341.45 | (1,5)
+FrozenLake-v1 | rta | 16 | 13.63+-7.0 | 0.86+-0.0 | 100.0 [mask_safe_rolls] | 18196.31+-11412.0 | 0.0+-0.0 | 100.0 [mask_safe_rolls] | 1335.02 | (5,5)
+FrozenLake-v1 | rta | 32 | 55.39+-37.0 | 0.48+-0.0 | 100.0 [mask_safe_rolls] | 20273.63+-15085.0 | 0.0+-0.0 | 100.0 [mask_safe_rolls] | 366.02 | (5,5)
+FrozenLake-v1 | am | 8 | 8.76+-nan | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 109.17+-5.0 | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 12.46 | (1,5)
+FrozenLake-v1 | am | 16 | 12.72+-2.0 | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 368.78+-222.0 | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 28.99 | (5,5)
+FrozenLake-v1 | am | 32 | 19.99+-1.0 | 1.0+-0.0 | 100.0 [mask_safe_rolls] | 5323.37+-8952.0 | 0.0+-0.0 | 100.0 [mask_safe_rolls] | 266.3 | (5,5)
+Knapsack-v0 | rta | 5 | 1.05+-0.0 | 36.0+-0.0 | 100.0 [mask_safe_rolls] | 557.43+-501.0 | 35.99+-0.0 | 100.0 [mask_safe_rolls] | 530.89 | (5,5)
+Knapsack-v0 | rta | 50 | 50.95+-61.0 | 102.0+-0.0 | 100.0 [mask_safe_rolls] | 15493.49+-20941.0 | 101.55+-0.3 | 100.0 [mask_safe_rolls] | 304.09 | (5,5)
+Knapsack-v0 | rta | 100 | 97.01+-4.0 | 99.0+-0.0 | 100.0 [mask_safe_rolls] | 17245.11+-26398.0 | 99.54+-0.2 | 100.0 [mask_safe_rolls] | 177.77 | (5,5)
+Knapsack-v0 | am | 5 | 2.47+-0.0 | 36.0+-0.0 | 100.0 [mask_safe_rolls] | 114.53+-6.0 | 35.08+-0.1 | 100.0 [mask_safe_rolls] | 46.37 | (5,5)
+Knapsack-v0 | am | 50 | 21.13+-40.0 | 104.0+-0.0 | 100.0 [mask_safe_rolls] | 458.39+-226.0 | 103.43+-0.4 | 100.0 [mask_safe_rolls] | 21.69 | (5,5)
+Knapsack-v0 | am | 100 | 31.98+-67.0 | 104.0+-0.0 | 100.0 [mask_safe_rolls] | 2285.08+-2368.0 | 104.0+-0.0 | 100.0 [mask_safe_rolls] | 71.45 | (5,5)
+
+SUPPLEMENT (not part of the original scripts): population std of train times, train-time eval reward
+env | mech | ver | GA time std | GA train-eval reward | PPO time std | PPO train-eval reward
+CartPole-v0 | rta | 1.5 | 1.7 | 200.0 | 8.9 | 200.0
+CartPole-v0 | rta | 1.25 | 0.8 | 200.0 | 7.3 | 200.0
+CartPole-v0 | rta | 1.0 | 1.0 | 200.0 | 2.8 | 200.0
+CartPole-v0 | rta | 0.75 | 2.8 | 200.0 | 5.4 | 200.0
+CartPole-v0 | rta | 0.5 | 7.0 | 200.0 | 0.5 | 200.0
+CartPole-v0 | rta | 0.25 | 6.2 | 200.0 | 7.3 | 200.0
+CartPole-v0 | am | 1.5 | 6.3 | 200.0 | 13.7 | 179.6
+CartPole-v0 | am | 1.25 | 13.0 | 200.0 | 116.4 | 196.2
+CartPole-v0 | am | 1.0 | 10.9 | 200.0 | 5.7 | 200.0
+CartPole-v0 | am | 0.75 | 10.4 | 200.0 | 114.8 | 200.0
+CartPole-v0 | am | 0.5 | 14.0 | 200.0 | 2.5 | 200.0
+CartPole-v0 | am | 0.25 | 49.3 | 101.7 | 1.9 | 200.0
+FrozenLake-v1 | rta | 8 | 0.0 | 1.0 | 7395.7 | 3.68
+FrozenLake-v1 | rta | 16 | 4.8 | -0.443 | 8220.3 | 1.214
+FrozenLake-v1 | rta | 32 | 26.9 | 0.563 | 10866.1 | -10.0
+FrozenLake-v1 | am | 8 | 0.0 | 1.0 | 3.7 | 1.0
+FrozenLake-v1 | am | 16 | 1.1 | 1.0 | 160.3 | 1.0
+FrozenLake-v1 | am | 32 | 0.8 | 1.0 | 6448.3 | 1.0
+Knapsack-v0 | rta | 5 | 0.1 | 36.0 | 361.2 | 36.0
+Knapsack-v0 | rta | 50 | 43.7 | 95.0 | 15085.1 | 102.0
+Knapsack-v0 | rta | 100 | 2.6 | 99.0 | 19015.8 | 99.0
+Knapsack-v0 | am | 5 | 0.1 | 36.0 | 4.0 | 34.2
+Knapsack-v0 | am | 50 | 29.2 | 94.0 | 162.8 | 103.0
+Knapsack-v0 | am | 100 | 48.1 | 104.0 | 1705.6 | 104.0
+
+TABLE 3 (geometric mean of rounded per-variant ratios)
+cpole - RTA SpeedUp: 12.95
+cpole - AM SpeedUp: 3.21
+frolake - RTA SpeedUp: 1177.54
+frolake - AM SpeedUp: 45.82
+knapsack - RTA SpeedUp: 306.16
+knapsack - AM SpeedUp: 41.58
+All Envs: 55.28

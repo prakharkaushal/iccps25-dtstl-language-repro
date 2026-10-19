@@ -1,0 +1,20 @@
+== Derived from paper-reported values (arithmetic only) ==
+
+T1 per-trajectory monitor speedup RTAMT/language: [23.9, 44.5, 3.9, 103.0, 28.5] geomean 26.2
+T2 total-monitoring-time speedup PBO-RTAMT/PROF: [38.4, 25.8, 5.1, 66.5, 24.0] geomean 24.1
+T2 per-iteration monitoring speedup:           [32.6, 25.0, 4.9, 58.7, 24.4] geomean 22.5
+T2 iteration ratio (>1 = ours needs fewer):    [1.11, 0.99, 1.04, 0.78, 0.94] geomean 0.96
+   consistency PBO-RTAMT S*TM vs TT: ['13.838/13.617', '12.395/12.484', '11.825/11.785', '44.408/44.700', '11.396/11.242']
+   consistency PROF      S*TM vs TT: ['0.384/0.355', '0.503/0.484', '2.299/2.294', '0.964/0.672', '0.498/0.468']
+T3 total-monitoring-time speedup SBO-RTAMT/SMuRF: [10.9, 6.3, 3.5, 17.1, 7.3] geomean 7.8
+T3 per-iteration monitoring speedup:           [5.9, 3.9, 3.1, 9.7, 4.8] geomean 5.1
+T3 iteration ratio (>1 = ours needs fewer):    [1.66, 1.17, 1.04, 1.53, 1.15] geomean 1.29
+   consistency SBO-RTAMT S*TM vs TT: ['33.675/30.438', '19.207/19.245', '38.414/38.564', '70.693/70.265', '22.793/23.811']
+   consistency SMuRF     S*TM vs TT: ['3.421/2.789', '4.196/3.055', '11.768/11.150', '4.743/4.121', '4.112/3.254']
+T5 LCW/LCP iteration ratio: [1.88, 2.07, 1.26, 3.27, 1.8, 2.14, 2.31, 4.02] geomean 2.21
+
+== Internal-consistency observations ==
+T4 S_min == T2 PROF S_bar: True
+T4 phi4 (S, TT, TM) == T3 SMuRF phi4: True
+T1 phi1 vs phi5 (satisfaction %, #boxes): (7.08, 7) (7.08, 7)
+T1 formula with 85 boxes: phi3 (text on p.7 says phi4)

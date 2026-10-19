@@ -1,0 +1,3 @@
+MATLAB 26.2 (R2026b); Simulink 26.2 (R2026b)
+model: external/chasing-cars/cars.mdl; solver VariableStepAuto, RelTol 1e-3, AbsTol 1e-5, MaxStep auto
+200 simulations, 589.5 s total (2.947 s each), finished 2026-10-18 23:28:15

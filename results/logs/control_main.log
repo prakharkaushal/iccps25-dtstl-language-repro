@@ -1,0 +1,17 @@
+16 (spec, variant) runs with 1000 replications each -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\control\main
+[   27.9s] phi4 LCP: P_bar=1.229 failures=0/1000 boxes=36 procs=36 tracks=44244 wall=24.4s
+[   63.6s] phi3 LCW: P_bar=10.635 failures=0/1000 boxes=110 procs=1 tracks=10635 wall=35.7s
+[   99.7s] phi3 LCP: P_bar=1.0 failures=0/1000 boxes=110 procs=64 tracks=64000 wall=36.1s
+[  121.0s] phi7 LCP: P_bar=1.0 failures=0/1000 boxes=870 procs=64 tracks=64000 wall=117.4s
+[  142.9s] phi4 LCW: P_bar=30.725 failures=0/1000 boxes=36 procs=1 tracks=30725 wall=139.4s
+[  152.3s] phi2 LCP: P_bar=5.063 failures=0/1000 boxes=8 procs=8 tracks=40504 wall=31.4s
+[  192.1s] phi1 LCP: P_bar=1.188 failures=0/1000 boxes=2048 procs=64 tracks=76032 wall=39.8s
+[  240.1s] phi2 LCW: P_bar=59.293 failures=0/1000 boxes=8 procs=1 tracks=59293 wall=140.4s
+[  278.9s] phi1 LCW: P_bar=56.597 failures=0/1000 boxes=2048 procs=1 tracks=56597 wall=136.0s
+[  307.7s] phi7 LCW: P_bar=36.063 failures=0/1000 boxes=870 procs=1 tracks=36063 wall=304.2s
+[ 1072.5s] phi8 LCP: P_bar=13.663 failures=0/1000 boxes=1000 procs=64 tracks=874432 wall=1069.0s
+[ 3403.4s] phi6 LCP: P_bar=571.232 failures=0/1000 boxes=1 procs=1 tracks=571232 wall=3400.0s
+[ 4013.8s] phi6 LCW: P_bar=580.872 failures=0/1000 boxes=1 procs=1 tracks=580872 wall=4010.4s
+[ 4869.7s] phi8 LCW: P_bar=949.8114343029088 failures=3/1000 boxes=1000 procs=1 tracks=963495 wall=4866.2s
+[ 5486.1s] phi5 LCP: P_bar=128.466 failures=0/1000 boxes=1073741824 procs=64 tracks=8221824 wall=5482.6s
+[ 5795.1s] phi5 LCW: P_bar=2672.6308411214955 failures=786/1000 boxes=1073741824 procs=1 tracks=4903589 wall=5791.7s

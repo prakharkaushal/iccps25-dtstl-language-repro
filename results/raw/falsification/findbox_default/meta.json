@@ -1,0 +1,145 @@
+{
+ "experiment": "falsification",
+ "run_id": "findbox_default",
+ "created": "2026-10-18T21:34:52",
+ "sessions": [
+  {
+   "started": "2026-10-18T21:34:52",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/falsification_findbox_default.yaml",
+    "--run-id",
+    "findbox_default",
+    "--specs",
+    "phi3",
+    "phi2",
+    "phi5",
+    "phi4",
+    "--workers",
+    "8"
+   ],
+   "source_sha256": "8ffecf40b85ead6c300e6cda8717e5ae7c7f9f1fbc70d10ce29bca8557526750",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T21:44:41",
+   "n_new_records": 320,
+   "elapsed_s": 588.4
+  },
+  {
+   "started": "2026-10-18T21:45:20",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/falsification_findbox_default.yaml",
+    "--run-id",
+    "findbox_default",
+    "--specs",
+    "phi4",
+    "--methods",
+    "SBO-RTAMT",
+    "--workers",
+    "8"
+   ],
+   "source_sha256": "8ffecf40b85ead6c300e6cda8717e5ae7c7f9f1fbc70d10ce29bca8557526750",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T21:45:48",
+   "n_new_records": 20,
+   "elapsed_s": 27.3
+  },
+  {
+   "started": "2026-10-18T23:19:25",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/falsification_findbox_default.yaml",
+    "--run-id",
+    "findbox_default",
+    "--specs",
+    "phi1",
+    "--workers",
+    "8"
+   ],
+   "source_sha256": "8ffecf40b85ead6c300e6cda8717e5ae7c7f9f1fbc70d10ce29bca8557526750",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T23:27:34",
+   "n_new_records": 80,
+   "elapsed_s": 488.1
+  }
+ ],
+ "config": {
+  "experiment": "falsification",
+  "seed_base": 1000,
+  "n_trials": 20,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5"
+  ],
+  "methods": [
+   "PROF",
+   "PBO-RTAMT",
+   "SMuRF",
+   "SBO-RTAMT"
+  ],
+  "cc": {
+   "horizon": 100.0,
+   "n_segments": 10,
+   "sample_dt": 10.0
+  },
+  "bo": {
+   "n_init": 5,
+   "max_iter": 200,
+   "n_uniform": 1000,
+   "n_local": 1000,
+   "local_scales": [
+    0.02,
+    0.1
+   ],
+   "top_k": 5,
+   "xi": 0.0
+  },
+  "language": {
+   "source": "findbox",
+   "run": "main",
+   "variant": "default"
+  }
+ },
+ "notes": [
+  "2026-10-18: removed 20 SBO-RTAMT phi4 records wrongly marked not-applicable by a runner bug (SBO-RTAMT does not use the language); re-run after the fix."
+ ]
+}

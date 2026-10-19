@@ -1,0 +1,315 @@
+wrote results\tables\table1_main.md
+wrote results\tables\table2_3_main.md
+wrote results\tables\table4_main.md
+wrote results\tables\table5_main.md
+wrote results\tables\e6_control_bo_main.md
+wrote results\tables\table2_3_pilot.md
+wrote results\tables\table4_pilot.md
+wrote results\tables\table5_pilot.md
+wrote results\tables\falsification_main.png
+wrote results\tables\falsification_pilot.png
+# Reachability of the boxes of L(¬φ) on the Chasing Cars model `[ours]`
+
+Signals: 10000 uniform inputs from E1 run `main`; PROF falsifiers from run `main`; modified PROF from run `main`.
+
+| Req | boxes j | boxes entered by ≥1 random signal | PROF falsified trials | distinct falsifying boxes (PROF) | falsifying box → trials | PBO-RTAMT falsified trials | never falsified by modified PROF (mean) |
+|---|---|---|---|---|---|---|---|
+| phi1 | 11 | 2 (indices [3, 4]) | 9/20 | 1 | {3: 9} | 20/20 | 10.5 |
+| phi2 | 8 | 5 (indices [3, 4, 5, 6, 7]) | 14/20 | 6 | {2: 1, 3: 2, 4: 2, 5: 3, 6: 2, 7: 4} | 19/20 | 6.7 |
+| phi3 | 27 | 12 (indices [2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15]) | 20/20 | 5 | {2: 13, 4: 1, 5: 1, 6: 4, 9: 1} | 20/20 | 22.5 |
+| phi4 | 27 | 6 (indices [2, 4, 5, 6, 7, 9]) | 20/20 | 6 | {2: 11, 4: 2, 5: 1, 6: 4, 7: 1, 9: 1} | 20/20 | 22.4 |
+| phi5 | 7 | 4 (indices [3, 4, 5, 6]) | 14/20 | 3 | {3: 1, 5: 5, 6: 8} | 18/20 | 5.75 |
+
+Reading: a PROF process is tied to one box; processes on boxes that the system cannot enter (e.g. φ1's box 'x(0) > 40' while x(0) = 10 always) cannot succeed, whereas every PBO-RTAMT process optimises the full robustness. The paper's FindBox languages had different (fewer for φ1, φ2, φ4) boxes.
+# Violation rate (% of uniform inputs with ρ < 0) under three time grids
+
+`[ours]` N = 2000 uniform inputs (seed 12345); `[paper]` Table 1 'Satisfaction Ratios' (our interpretation: share inside L(¬φ), see DEVIATIONS.md B5).
+
+| Grid | φ1 | φ2 | φ3 | φ4 | φ5 |
+|---|---|---|---|---|---|
+| [paper] | 7.08 | 1.82 | 3.84 | 0.87 | 7.08 |
+| D1: 11 samples t=0..100 s (used) | 0.50 | 0.95 | 5.50 | 1.00 | 0.55 |
+| 10 samples t=0..90 s (truncated windows) | 0.50 | 1.90 | 5.50 | 1.00 | 0.55 |
+| 1 s grid, 101 samples | 4.25 | 0.00 | 17.10 | 4.95 | 19.05 |
+C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_figures.py:75: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  fig.tight_layout()
+C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_figures.py:75: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  fig.tight_layout()
+C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_figures.py:75: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  fig.tight_layout()
+C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_figures.py:75: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  fig.tight_layout()
+C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_figures.py:75: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+  fig.tight_layout()
+wrote results\figures\fig1_control_phi4.png
+wrote results\figures\fig4a_control_phi1.png
+wrote results\figures\fig4b_control_phi3.png
+wrote results\figures\fig2_falsification_phi5.png
+wrote results\figures\fig2b_falsification_not_phi5.png
+wrote results\figures\fig3_langcontrol_run.png | path kinds: ['ref', 'track', 'proj', 'final']
+wrote results\tables\table2_3_findbox_default.md
+wrote results\tables\falsification_findbox_default.png
+wrote results\tables\table2_3_findbox_besteffort.md
+wrote results\tables\falsification_findbox_besteffort.png
+# FindBox approximations of L(¬φ) vs the exact language `[ours]`
+
+FindBox run `main` (results/raw/findbox/main/); E1 signals from run `main`; 20000 sample points per estimate (seed 0). Box counts: FindBox [ours] vs paper Table 1 [paper] vs exact language [ours].
+
+| Variant | Req | boxes [ours, FindBox] | boxes [paper] | boxes exact [ours] | samples inside L(¬φ) during build | precision (volume) | recall in D (volume) | reachable recall (E1 violations covered) | reachable precision (E1 signals in boxes that violate) | FindBox time (s) | oracle calls |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| besteffort | phi2 | 5 | 3 | 8 | 5/1000 | 1.000 | 0.547 | 0.429 (84 violations) | 0.537 (67 in boxes) | 119 | 1008747 |
+| besteffort | phi3 | 108 | 85 | 27 | 276/1000 | 1.000 | 0.560 | 0.168 (423 violations) | 1.000 (71 in boxes) | 9301 | 5155409 |
+| besteffort | phi4 | 53 | 2 | 27 | 57/1000 | 0.216 | 0.518 | 1.000 (85 violations) | 1.000 (85 in boxes) | 757 | 3107456 |
+| besteffort | phi5 | 5 | 7 | 7 | 5/1000 | 1.000 | 0.622 | 0.692 (52 violations) | 0.537 (67 in boxes) | 140 | 1008747 |
+| default | phi1 | 3 | 7 | 11 | 1001/1001 | 1.000 | 0.756 | 1.000 (70 violations) | 0.007 (10000 in boxes) | 4360 | 13459623 |
+| default | phi2 | 1 | 3 | 8 | 1/1001 | 1.000 | 0.141 | 0.000 (84 violations) | 0.000 (265 in boxes) | 2 | 14770 |
+| default | phi3 | 54 | 85 | 27 | 96/1001 | 1.000 | 0.727 | 1.000 (423 violations) | 1.000 (423 in boxes) | 515 | 1150627 |
+| default | phi4 | 0 | 2 | 27 | 0/1001 | nan | 0.000 | 0.000 (85 violations) | — (0 in boxes) | 0 | 1001 |
+| default | phi5 | 1 | 7 | 7 | 1/1001 | 1.000 | 0.152 | 0.000 (52 violations) | 0.000 (265 in boxes) | 2 | 14770 |
+
+## Table 1 recomputed with FindBox languages (10,000 E1 signals) `[ours]` vs the paper `[paper]`
+
+| Variant | Req | value agreement % [ours] | [paper] | sign-only % [ours] | [paper] | complete disagreement % [ours] | [paper] |
+|---|---|---|---|---|---|---|---|
+| besteffort | phi2 | 58.67 | 42.60 | 40.85 | 57.40 | 0.48 | 0.00 |
+| besteffort | phi3 | 63.84 | 100.00 | 32.64 | 0.00 | 3.52 | 0.00 |
+| besteffort | phi4 | 100.00 | 42.61 | 0.00 | 57.38 | 0.00 | 0.01 |
+| besteffort | phi5 | 72.07 | 100.00 | 27.77 | 0.00 | 0.16 | 0.00 |
+| default | phi1 | 0.00 | 100.00 | 0.70 | 0.00 | 99.30 | 0.00 |
+| default | phi2 | 37.41 | 42.60 | 61.75 | 57.40 | 0.84 | 0.00 |
+| default | phi3 | 94.84 | 100.00 | 5.16 | 0.00 | 0.00 | 0.00 |
+| default | phi4 | — (no boxes) | 42.61 | — (no boxes) | 57.38 | — (no boxes) | 0.01 |
+| default | phi5 | 39.64 | 100.00 | 59.84 | 0.00 | 0.52 | 0.00 |
+
+Notes: 'complete disagreement' = the FindBox language monitor and RTAMT disagree on whether the signal violates φ. FindBox samples on the integer grid in the 'default' variant, so violation sets of width < 1 (φ4: 32 < x < 33) cannot be found there.
+Missing languages: besteffort phi1 (see results/raw/findbox/main/INCOMPLETE.md).
+# Python Chasing Cars port vs the official Simulink model `[ours]`
+
+200 random inputs (results/matlab/cc_inputs.csv, seed 99), positions y1..y5 at t = 0, 10, …, 100 s. MATLAB run details: results/matlab/cc_outputs_simulink_meta.txt, results/matlab/cc_outputs_simulink_step_tol1e-10_meta.txt, results/matlab/cc_outputs_simulink_step_tol1e-6_meta.txt, results/matlab/falsifiers_main_simulink_meta.txt, results/matlab/falsifiers_main_simulink_step_tol1e-10_meta.txt, results/matlab/falsifiers_main_simulink_step_tol1e-6_meta.txt.
+
+Simulink settings:
+- (a) ARCH input convention (a 0.01 s ramp at every input switch) and the model's own solver settings (VariableStepAuto, RelTol 1e-3, AbsTol 1e-5, MinStep 0.01 s): the benchmark as usually run
+- (b) exactly piecewise-constant inputs (as the port) and RelTol = AbsTol = 1e-6 requested; the model's MinStep of 0.01 s limits the accuracy reached at the input switches (Simulink warns; effective tolerances in results/logs/cc_simulink_*step_tol1e-6.log)
+- (c) exactly piecewise-constant inputs, RelTol = AbsTol = 1e-10 and MinStep auto (overriding the model's 0.01 s)
+
+## Random inputs, Simulink setting (a)
+
+| car | max abs diff (m) | median | 95th percentile |
+|---|---|---|---|
+| 1 | 0.3076 | 0.009633 | 0.07226 |
+| 2 | 1.522 | 0.02161 | 0.1844 |
+| 3 | 1.245 | 0.01985 | 0.177 |
+| 4 | 1.042 | 0.01843 | 0.1645 |
+| 5 | 1.186 | 0.01588 | 0.1583 |
+
+| requirement | verdict agreement (violated iff ρ < −1e-06) | boundary cases |ρ| ≤ 1e-06 (Python / Simulink) | max abs robustness diff | median |
+|---|---|---|---|---|
+| phi1 | 100.00 % | 0 / 0 | 1.042 | 0.00295 |
+| phi2 | 100.00 % | 4 / 4 | 0.5389 | 0.0101 |
+| phi3 | 100.00 % | 0 / 0 | 1.042 | 0.00286 |
+| phi4 | 100.00 % | 0 / 0 | 1.042 | 0.00286 |
+| phi5 | 100.00 % | 4 / 4 | 0.3795 | 0.00685 |
+
+## Random inputs, Simulink setting (b)
+
+| car | max abs diff (m) | median | 95th percentile |
+|---|---|---|---|
+| 1 | 0.01369 | 0.0007949 | 0.005119 |
+| 2 | 0.05349 | 0.001861 | 0.01766 |
+| 3 | 0.05032 | 0.001741 | 0.01736 |
+| 4 | 0.0596 | 0.001503 | 0.01649 |
+| 5 | 0.04755 | 0.00133 | 0.01557 |
+
+| requirement | verdict agreement (violated iff ρ < −1e-06) | boundary cases |ρ| ≤ 1e-06 (Python / Simulink) | max abs robustness diff | median |
+|---|---|---|---|---|
+| phi1 | 100.00 % | 0 / 0 | 0.04936 | 0.000213 |
+| phi2 | 100.00 % | 4 / 4 | 0.04487 | 0.000978 |
+| phi3 | 100.00 % | 0 / 0 | 0.04936 | 0.000211 |
+| phi4 | 100.00 % | 0 / 0 | 0.04936 | 0.000211 |
+| phi5 | 100.00 % | 4 / 4 | 0.04102 | 0.000841 |
+
+## Random inputs, Simulink setting (c)
+
+| car | max abs diff (m) | median | 95th percentile |
+|---|---|---|---|
+| 1 | 1.291e-07 | 1.903e-09 | 2.528e-08 |
+| 2 | 6.712e-07 | 5.302e-09 | 4.82e-08 |
+| 3 | 6.447e-07 | 4.729e-09 | 4.696e-08 |
+| 4 | 6.359e-07 | 4.456e-09 | 4.693e-08 |
+| 5 | 6.017e-07 | 4.134e-09 | 4.466e-08 |
+
+| requirement | verdict agreement (violated iff ρ < −1e-06) | boundary cases |ρ| ≤ 1e-06 (Python / Simulink) | max abs robustness diff | median |
+|---|---|---|---|---|
+| phi1 | 100.00 % | 0 / 0 | 1.077e-06 | 5.84e-10 |
+| phi2 | 100.00 % | 4 / 4 | 1.117e-07 | 1.75e-09 |
+| phi3 | 100.00 % | 0 / 0 | 1.077e-06 | 5.76e-10 |
+| phi4 | 100.00 % | 0 / 0 | 1.077e-06 | 5.76e-10 |
+| phi5 | 100.00 % | 4 / 4 | 7.783e-08 | 1.5e-09 |
+
+## Lead car: where does the difference come from? `[ours]`
+
+Car 1 never switches mode, so its exact trajectory can be computed to high accuracy here (DOP853, rtol = atol = 1e-12) under both input conventions.
+
+| comparison (car 1, all samples) | max abs diff (m) | median | 95th percentile |
+|---|---|---|---|
+| port vs exact-step reference (accuracy of the port) | 3.33e-10 | 1e-11 | 7.36e-11 |
+| Simulink (a) vs ARCH-ramp reference (Simulink's integration error at the model's tolerances) | 0.307 | 0.00875 | 0.0635 |
+| exact-step vs ARCH-ramp reference (effect of the input convention) | 0.0613 | 0.00321 | 0.0267 |
+| Simulink (a) vs port (observed) | 0.308 | 0.00963 | 0.0723 |
+
+## Do the port's falsifiers falsify the Simulink model? (run `main`) `[ours]`
+
+Every falsifying input found on the port in `results/raw/falsification/main/` (Tables 2–3, exact language), simulated on Simulink with settings (a), (b), (c) (defined above); ρ = robustness of φ on x = y5 − y4 (equals RTAMT).
+
+| Req | Method | falsifiers | also falsify Simulink (a) | also falsify Simulink (b) | also falsify Simulink (c) | median ρ port | max abs ρ diff (a) | max abs ρ diff (b) | max abs ρ diff (c) |
+|---|---|---|---|---|---|---|---|---|---|
+| phi1 | PBO-RTAMT | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -22.1 | 0.532 | 0.0337 | 7.17e-07 |
+| phi1 | PROF | 9 | 9 (100 %) | 9 (100 %) | 9 (100 %) | -1.48 | 0.0144 | 0.00264 | 2.8e-09 |
+| phi1 | SBO-RTAMT | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -19.6 | 0.316 | 0.0275 | 1.44e-07 |
+| phi1 | SMuRF | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -19.8 | 1.66 | 0.0186 | 1.91e-07 |
+| phi2 | PBO-RTAMT | 19 | 16 (84 %) | 19 (100 %) | 19 (100 %) | -0.024 | 0.281 | 0.00169 | 6.07e-09 |
+| phi2 | PROF | 14 | 13 (93 %) | 14 (100 %) | 14 (100 %) | -0.0225 | 0.0312 | 0.000715 | 6.06e-09 |
+| phi2 | SBO-RTAMT | 15 | 12 (80 %) | 15 (100 %) | 15 (100 %) | -0.0171 | 0.133 | 0.00196 | 6.39e-09 |
+| phi2 | SMuRF | 10 | 8 (80 %) | 10 (100 %) | 10 (100 %) | -0.035 | 0.0387 | 0.00123 | 2.03e-09 |
+| phi3 | PBO-RTAMT | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.98 | 0.129 | 0.0136 | 1.3e-08 |
+| phi3 | PROF | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.9 | 0.0774 | 0.00904 | 1.97e-08 |
+| phi3 | SBO-RTAMT | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.994 | 0.16 | 0.0031 | 1.42e-08 |
+| phi3 | SMuRF | 19 | 19 (100 %) | 19 (100 %) | 19 (100 %) | -1.27 | 0.0505 | 0.00966 | 7.27e-09 |
+| phi4 | PBO-RTAMT | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.298 | 0.053 | 0.0111 | 8.6e-09 |
+| phi4 | PROF | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.237 | 0.164 | 0.00779 | 1.31e-08 |
+| phi4 | SBO-RTAMT | 19 | 19 (100 %) | 19 (100 %) | 19 (100 %) | -0.28 | 0.0292 | 0.00708 | 8.17e-09 |
+| phi4 | SMuRF | 20 | 20 (100 %) | 20 (100 %) | 20 (100 %) | -0.293 | 0.132 | 0.00865 | 5.73e-09 |
+| phi5 | PBO-RTAMT | 18 | 17 (94 %) | 18 (100 %) | 18 (100 %) | -0.0186 | 0.0963 | 0.00343 | 6.08e-09 |
+| phi5 | PROF | 14 | 11 (79 %) | 13 (93 %) | 14 (100 %) | -0.0105 | 0.276 | 0.0512 | 4.06e-08 |
+| phi5 | SBO-RTAMT | 11 | 8 (73 %) | 11 (100 %) | 11 (100 %) | -0.0174 | 0.448 | 0.00361 | 3.97e-09 |
+| phi5 | SMuRF | 10 | 10 (100 %) | 10 (100 %) | 10 (100 %) | -0.0141 | 0.0112 | 0.00182 | 1.79e-09 |
+
+Overall, falsifiers that also falsify the Simulink model: (a) 322 of 338 (95.3 %); (b) 337 of 338 (99.7 %); (c) 338 of 338 (100.0 %).
+- (a): 16 do not carry over; their robustness on the port is between -0.0572 and -0.000576.
+- (b): 1 falsifier does not carry over. phi5 PROF trial 10: ρ port -0.04718, Simulink 0.00402.
+
+# Reproducibility audit — automated checks `[ours]`
+
+Generated by `analysis/audit.py` (independent recomputation; it does not reuse make_tables.py except in section E). PASS = recomputed value equals the quoted value at the quoted precision.
+
+**71 PASS, 0 FAIL.**
+
+## A. Headline claims (README/PROGRESS) recomputed from raw outputs
+
+| ID | Check | Quoted / expected | Recomputed | Result | Source |
+|---|---|---|---|---|---|
+| E1-1 | value agreement language monitor vs RTAMT, all φ | 100 % | [100.0, 100.0, 100.0, 100.0, 100.0] | PASS | `results/raw/e1_monitoring/main` |
+| E1-2 | per-call speedup RTAMT/language, range | 1.1–2.0× | 1.13–2.04 | PASS | `results/raw/e1_monitoring/main` |
+| E1-3 | RTAMT ms/call, 11-sample traces, range | 0.09–0.20 | 0.087–0.205 | PASS | `results/raw/e1_monitoring/main` |
+| E1-4 | RTAMT ms/call, 101-sample traces, range (corrected in Phase 5; was 0.41–1.08) | 0.53–1.00 | 0.533–1.001 | PASS | `results/raw/e1_monitoring/main` |
+| E1-5 | violation rate %, φ1–φ5 | 0.70/0.84/4.23/0.85/0.52 | 0.70/0.84/4.23/0.85/0.52 | PASS | `results/raw/e1_monitoring/main` |
+| E23-1 | falsified trials /100: PROF, PBO, SMuRF, SBO | 77/97/79/85 | 77/97/79/85 | PASS | `results/raw/falsification/main` |
+| E23-2 | T̄_T geomean ratio PBO/PROF, SBO/SMuRF | 2.7 / 2.3 | 2.72 / 2.30 | PASS | `results/raw/falsification/main` |
+| E23-3 | S̄ geomean ratio PBO/PROF, SBO/SMuRF | 0.47 / 1.23 | 0.469 / 1.227 | PASS | `results/raw/falsification/main` |
+| E23-4 | Wilcoxon SBO vs SMuRF: only φ4 < 0.05, p = 0.017 | φ4 only, 0.017 | 0.314/0.102/0.755/0.017/0.955 | PASS | `results/raw/falsification/main` |
+| E23-5 | Wilcoxon PBO vs PROF: < 0.05 for φ1, φ4, φ5 | φ1, φ4, φ5 | 0.000/0.084/0.281/0.047/0.003 | PASS | `results/raw/falsification/main` |
+| E23-6 | trials falsified by an initial sample, identical for all 4 methods | 9 (same 9) | [9, 9, 9, 9], common 9 | PASS | `results/raw/falsification/main` |
+| E23-7 | PROF φ1: 9 falsifications, all in box index 3 (0-based: x(3) > 40) | 9, box 3 | 9, boxes [3] | PASS | `results/raw/falsification/main` |
+| E23-8 | φ1: boxes of L(¬φ1) entered by the 10,000 E1 signals | 2 of 11 | 2 of 11 [0, 0, 0, 57, 13, 0, 0, 0, 0, 0, 0] | PASS | `results/raw/e1_monitoring/main/signals.npz` |
+| E23-9 | S̄ ratio with unfalsified trials at 200: PBO/PROF, SBO/SMuRF | 0.34 / 1.03 | 0.340 / 1.031 | PASS | `results/raw/falsification/main` |
+| E4-1 | modified PROF S_min = PROF S (matched falsified trials) | 77/77 | 77/77 | PASS | `results/raw/table4/main + falsification/main` |
+| E4-2 | S̄_max, φ1–φ5 | 200 everywhere | [np.float64(200.0), np.float64(200.0), np.float64(200.0), np.float64(200.0), np.float64(200.0)] | PASS | `results/raw/table4/main` |
+| E4-3 | mean never-falsified boxes | 10.5/6.7/22.5/22.4/5.75 | 10.50/6.70/22.50/22.40/5.75 | PASS | `results/raw/table4/main` |
+| E4-4 | SEQ-BO falsified /20 and S̄ range | 8/17/20/20/14, 594–1,113 | 8/17/20/20/14, 594–1113 | PASS | `results/raw/table4/main` |
+| E5-1 | LCP P̄ < LCW P̄ on all 8 objectives | 8/8 | 8/8 | PASS | `results/raw/control/main` |
+| E5-2 | LCW/LCP ratio range | 1.0–70 | 1.02–69.5 | PASS | `results/raw/control/main` |
+| E5-3 | LCW failures φ5, φ8 (others 0) | 786, 3 | [0, 0, 0, 0, 786, 0, 0, 3] | PASS | `results/raw/control/main` |
+| E5-4 | LCW P̄ φ1, φ8 | 56.6, 950 | 56.60, 949.8 | PASS | `results/raw/control/main` |
+| E5-5 | LCP uses more total Track calls than LCW (same 1000 replications) | 5 of 8 | 5 of 8 | PASS | `results/raw/control/main` |
+| E6-1 | BO/LCW geomean ratio (all 8; ≥5 successes each) | 0.52 (8), 0.53 (7) | 0.525 (8), 0.530 (7) | PASS | `results/raw/control_bo/main + control/main` |
+| E6-2 | BO needs fewer iterations than LCW | 6 of 8 | 6 of 8 | PASS | `results/raw/control_bo/main + control/main` |
+| E6-3 | φ1 ratio; φ6 success BO vs LCW (≤ 205 calls) | 1.21; 2 % vs 30.8 % | 1.21; 2 % vs 30.8 % | PASS | `results/raw/control_bo/main + control/main` |
+| FB-1 | FindBox default: falsified /20 on φ1, φ2, φ3, φ5 | {'PROF': [0, 0, 20, 0], 'SMuRF': [1, 0, 20, 0], 'PBO-RTAMT': [19, 15, 20, 11], 'SBO-RTAMT': [20, 15, 20, 11]} | {'PROF': [0, 0, 20, 0], 'SMuRF': [1, 0, 20, 0], 'PBO-RTAMT': [19, 15, 20, 11], 'SBO-RTAMT': [20, 15, 20, 11]} | PASS | `results/raw/falsification/findbox_default` |
+| FB-2 | FindBox default φ4: language methods n/a (60 runs), SBO 19/20 | 60, 19 | 60, 19 | PASS | `results/raw/falsification/findbox_default` |
+| FB-3 | FindBox default φ1: RTAMT-rejected claims PROF, SMuRF | 4020, 4040 | 4020, 4040 (PROF: 0 falsified → exact) | PASS | `results/raw/falsification/findbox_default` |
+| FB-4 | FindBox best-effort: falsified /20 on φ2, φ3, φ4, φ5; rejected claims | {'PROF': [14, 15, 20, 13], 'SMuRF': [6, 9, 20, 8], 'PBO-RTAMT': [19, 20, 20, 17], 'SBO-RTAMT': [15, 20, 19, 11]}; 0 | {'PROF': [14, 15, 20, 13], 'SMuRF': [6, 9, 20, 8], 'PBO-RTAMT': [19, 20, 20, 17], 'SBO-RTAMT': [15, 20, 19, 11]}; 0 | PASS | `results/raw/falsification/findbox_besteffort` |
+| FB-5d | SBO-RTAMT (default) identical to falsification/main | all 100 | 100/100 | PASS | `falsification runs` |
+| FB-5b | SBO-RTAMT (best-effort) identical to falsification/main | all 80 | 80/80 | PASS | `falsification runs` |
+| FB-6 | FindBox default box counts φ1–φ5 | 3/1/54/0/1 | [3, 1, 54, 0, 1] | PASS | `results/raw/findbox/main` |
+| FB-7 | FindBox best-effort box counts φ1–φ5 (φ1 stopped, INCOMPLETE.md) | —/5/108/53/5 | [None, 5, 108, 53, 5] | PASS | `results/raw/findbox/main` |
+| FB-8 | best-effort φ3 FindBox boxes cover this share of the reachable (E1) violations | 17 % | 16.8 % (71 of 423) | PASS | `results/raw/findbox/main + e1_monitoring/main` |
+| CC-a | Simulink setting (a): verdict agreement; max |Δy|; max |Δρ| | 100 %; ≤ 1.5; ≤ 1.04 | 100.0 %; 1.52; 1.04 | PASS | `results/matlab/*.csv` |
+| CC-c | Simulink setting (c): verdict agreement; max |Δy|; max |Δρ| | 100 %; ≤ 6.7e-07; ≤ 1.1e-06 | 100.0 %; 6.71e-07; 1.08e-06 | PASS | `results/matlab/*.csv` |
+| CC-f | falsifiers that falsify Simulink (a)/(b)/(c); max |Δρ| (c) | 322/337/338 of 338; ≤ 7.2e-7 | 322/337/338 of 338; 7.2e-07 | PASS | `results/matlab/*.csv` |
+
+## B. Data integrity
+
+| ID | Check | Quoted / expected | Recomputed | Result | Source |
+|---|---|---|---|---|---|
+| E5-c | control records: failures/successes/P̄ match the per-replication iterations (16 records) | consistent | checked | PASS | `results/raw/control/main` |
+| D-falsification-main | falsification/main: every stored falsifier re-simulated reproduces falsifier_x and violates φ with the stored ρ | 338 falsifiers | 0 x-mismatches, 0 ρ-mismatches | PASS | `results/raw/falsification/main` |
+| D-table4-main | table4/main: every stored falsifier re-simulated reproduces falsifier_x and violates φ with the stored ρ | 156 falsifiers | 0 x-mismatches, 0 ρ-mismatches | PASS | `results/raw/table4/main` |
+| D-falsification-findbox_default | falsification/findbox_default: every stored falsifier re-simulated reproduces falsifier_x and violates φ with the stored ρ | 191 falsifiers | 0 x-mismatches, 0 ρ-mismatches | PASS | `results/raw/falsification/findbox_default` |
+| D-falsification-findbox_besteffort | falsification/findbox_besteffort: every stored falsifier re-simulated reproduces falsifier_x and violates φ with the stored ρ | 246 falsifiers | 0 x-mismatches, 0 ρ-mismatches | PASS | `results/raw/falsification/findbox_besteffort` |
+| D-e1-sig | E1 signals: stored inputs = seed-7 uniform draws; 300 random rows re-simulated | identical | inputs equal: True; max |Δx| = 0 | PASS | `results/raw/e1_monitoring/main/signals.npz` |
+| D-e1-met | E1 violation and agreement percentages recomputed from the stored signals | equal to records | max abs difference 0 percentage points | PASS | `results/raw/e1_monitoring/main` |
+
+## C. Configuration provenance
+
+| ID | Check | Quoted / expected | Recomputed | Result | Source |
+|---|---|---|---|---|---|
+| CFG-e1_monitoring-main | meta.json config of e1_monitoring/main = configs/e1_monitoring.yaml | identical | identical | PASS | `results/raw/e1_monitoring/main/meta.json` |
+| CFG-falsification-main | meta.json config of falsification/main = configs/falsification.yaml | identical | identical | PASS | `results/raw/falsification/main/meta.json` |
+| CFG-table4-main | meta.json config of table4/main = configs/table4.yaml | identical | identical | PASS | `results/raw/table4/main/meta.json` |
+| CFG-control-main | meta.json config of control/main = configs/control.yaml | identical | identical | PASS | `results/raw/control/main/meta.json` |
+| CFG-control_bo-main | meta.json config of control_bo/main = configs/control_bo.yaml | identical | identical | PASS | `results/raw/control_bo/main/meta.json` |
+| CFG-findbox-main | meta.json config of findbox/main = configs/findbox.yaml | identical | identical | PASS | `results/raw/findbox/main/meta.json` |
+| CFG-falsification-findbox_default | meta.json config of falsification/findbox_default = configs/falsification_findbox_default.yaml | identical | identical | PASS | `results/raw/falsification/findbox_default/meta.json` |
+| CFG-falsification-findbox_besteffort | meta.json config of falsification/findbox_besteffort = configs/falsification_findbox_besteffort.yaml | identical | identical | PASS | `results/raw/falsification/findbox_besteffort/meta.json` |
+
+## D. Re-runs with the current code
+
+| ID | Check | Quoted / expected | Recomputed | Result | Source |
+|---|---|---|---|---|---|
+| RR-falsification | falsification: audit re-run (current code) vs main, fields ['falsified', 'iterations', 'n_sims', 'falsifier_u', 'falsifier_rho', 'stop_reason', 'validation_calls'] | identical | 40/40 identical | PASS | `results/raw/falsification/audit_rerun` |
+| RR-table4 | table4: audit re-run (current code) vs main, fields ['falsified', 'iterations', 'n_sims', 'falsifier_u', 'box_order', 'boxes_tried', 'per_box_iterations', 'S_min', 'S_max'] | identical | 4/4 identical | PASS | `results/raw/table4/audit_rerun` |
+| RR-pilot | falsification pilot (older code, hash 437ea1b) vs main trial 0 (hash 43806db) | identical | 20/20 | PASS | `results/raw/falsification/pilot` |
+| RR-final | after the Phase 5 refactor (current src hash): falsification re-run vs main | identical | 8/8 identical | PASS | `results/raw/falsification/final_check` |
+| RR-final-control | after the Phase 5 refactor: control re-run vs main | identical | 1/1 identical | PASS | `results/raw/control/final_check` |
+| RR-e1 | E1 re-run vs main: all non-timing metrics and the 10,000 signals | identical (5 φ) | 5 φ: identical; signals equal: True; re-run speedup 1.43–2.51× | PASS | `results/raw/e1_monitoring/audit_rerun` |
+| RR-control | control re-run (φ3, φ4 × LCW, LCP; 1000 reps each) vs main: per-replication iterations and Track calls | identical | 4/4 identical | PASS | `results/raw/control/audit_rerun` |
+| RR-control_bo | E6 re-run (φ1, φ3 × reps 0–4) vs main | identical | 10/10 identical | PASS | `results/raw/control_bo/audit_rerun` |
+| RR-findbox | FindBox re-run (default φ2, φ4, φ5; best-effort φ2) vs main: box files | identical | 4/4 identical | PASS | `results/raw/findbox/audit_rerun` |
+
+## E. Tables regenerated from raw records
+
+| ID | Check | Quoted / expected | Recomputed | Result | Source |
+|---|---|---|---|---|---|
+| T-table1_main.md | results/tables/table1_main.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table2_3_main.md | results/tables/table2_3_main.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table2_3_pilot.md | results/tables/table2_3_pilot.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table2_3_findbox_default.md | results/tables/table2_3_findbox_default.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table2_3_findbox_besteffort.md | results/tables/table2_3_findbox_besteffort.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table4_main.md | results/tables/table4_main.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table5_main.md | results/tables/table5_main.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-table5_pilot.md | results/tables/table5_pilot.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+| T-e6_control_bo_main.md | results/tables/e6_control_bo_main.md regenerated from raw records | identical (except header lines) | identical | PASS | `analysis/make_tables.py` |
+
+## F. Success-conditional vs restricted means (censoring)
+
+The paper's S̄ and P̄ average over successful runs only; with its 100 % success rates this is harmless. Ours has unequal success rates, so conditional means can favour the method that fails more. The restricted mean counts every unsuccessful run at the cap (200 iterations for falsification; 205 Track calls for E6; (M+1)(K+1) = 5,511 Track calls for E5 LCW).
+
+| Comparison | ratio of conditional means, geomean (as reported) | ratio of restricted means, geomean |
+|---|---|---|
+| E2/E3 S̄ PBO-RTAMT/PROF (>1 favours PROF) | 0.47 | 0.34 (per φ: 0.08, 0.40, 0.62, 0.63, 0.37) |
+| E2/E3 S̄ SBO-RTAMT/SMuRF (>1 favours SMuRF) | 1.23 | 1.03 (per φ: 1.40, 0.64, 0.81, 1.63, 0.98) |
+| E6 BO/LCW iterations within 205 Track calls (<1 favours BO) | 0.52 | 0.53 (per φ: 1.23, 0.66, 0.24, 0.75, 0.95, 1.18, 0.12, 0.32) |
+| E5 φ5 LCW/LCP P̄ (LCW fails 786/1000) | 20.8 | ≥ 38.2 (failures counted at 5,511) |
+
+Reading: a restricted mean is a lower bound for the true mean of a method that fails within the cap.
+
+## G. T̄_T definition: critical path (D11, used) vs sum over all processes
+
+| Comparison | T̄_T ratio, critical path (reported) | ratio of total monitoring time over all processes |
+|---|---|---|
+| PBO-RTAMT/PROF | 2.72 | 3.42 |
+| SBO-RTAMT/SMuRF | 2.30 | 2.30 |
+
+Sequential methods have one process, so both definitions coincide for SBO-RTAMT/SMuRF.
+
+results rebuilt; audit summary: **71 PASS, 0 FAIL.**

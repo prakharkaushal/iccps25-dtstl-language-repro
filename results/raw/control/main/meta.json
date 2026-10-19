@@ -1,0 +1,82 @@
+{
+ "experiment": "control",
+ "run_id": "main",
+ "created": "2026-10-18T18:05:54",
+ "sessions": [
+  {
+   "started": "2026-10-18T18:05:54",
+   "argv": [
+    "experiments/run_control.py",
+    "--config",
+    "configs/control.yaml",
+    "--run-id",
+    "main",
+    "--workers",
+    "10",
+    "--specs",
+    "phi8",
+    "phi7",
+    "phi6",
+    "phi5",
+    "phi4",
+    "phi3",
+    "phi2",
+    "phi1"
+   ],
+   "source_sha256": "43806dbaefabf331695a3a396c013bef3b733f2b8c6244d79cdbcfa5a14124ff",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T19:42:30",
+   "elapsed_s": 5796.0
+  }
+ ],
+ "config": {
+  "experiment": "control",
+  "seed_base": 2000,
+  "reps": 1000,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5",
+   "phi6",
+   "phi7",
+   "phi8"
+  ],
+  "variants": [
+   "LCW",
+   "LCP"
+  ],
+  "max_boxes": 5000,
+  "langcontrol": {
+   "M": 500,
+   "K": 10,
+   "max_processes": 64
+  },
+  "uav": {
+   "m": 0.5,
+   "Ix": 0.005,
+   "Iy": 0.005,
+   "Iz": 0.009,
+   "g": 9.81
+  },
+  "tracker": {
+   "kp_x": 4.0,
+   "kd_x": 4.0,
+   "tilt_max_deg": 35.0,
+   "dt": 0.01,
+   "sample_period": 1.0
+  }
+ }
+}

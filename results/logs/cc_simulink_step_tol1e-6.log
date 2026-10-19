@@ -1,0 +1,2009 @@
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver will continue simulation with the step
+size restricted to 0.01 and using an effective relative error tolerance of 1.10548E-05, which is greater than the specified relative error tolerance of 1E-06. This usually may be
+caused by the high stiffness of the system. Please check the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.47382E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.61394E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.52276E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.55408E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.9055E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.91777E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.53845E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.31354E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.2742E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.08889E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.58771E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.00010067, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.01337E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.70597E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.30161E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.16527E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.14354E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.90156E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.48439E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+20/200  25.5s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.56201E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.38221E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.2543E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.48641E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.69815E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.50845E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.14114E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.35517E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.22867E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.51724E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.23135E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.95372E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.76816E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.54958E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.83091E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.15587E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.50097E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.48645E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.77318E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.4976E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+40/200  40.7s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.49232E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.55677E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.82067E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000124396, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.73765E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.72391E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.04372E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.56164E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.53367E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.37275E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.27619E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.33743E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000126449, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.52014E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.476E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.55997E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.0446E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.50985E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.23264E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.14597E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+60/200  53.3s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.72331E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.45347E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.09242E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.34094E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.10492E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.37301E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.19392E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.79772E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.4576E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.11003E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.55932E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.69225E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.16049E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.98755E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.85026E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.49836E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.17072E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.23129E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.18222E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.12882E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+80/200  68.7s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.11912E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.47338E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.74416E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.14477E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000112886, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.00152E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.766E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.54373E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.23757E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.11845E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.3427E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.93265E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.32232E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.49543E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.96767E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.31844E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.4899E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.19983E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.20408E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.37404E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+100/200  83.4s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.69903E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.92223E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.00498E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000105263, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.4067E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.59891E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.95399E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.39428E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.75289E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.00010464, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.13098E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.3149E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.5279E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.38034E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.82393E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.54849E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.18279E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.47912E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.2081E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.76921E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+120/200  98.1s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.59701E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.24881E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.37982E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.54687E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.42458E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.8968E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.61092E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000128369, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.23081E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.17881E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.46098E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.20781E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.13252E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.20794E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.00163E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.98793E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.33972E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.54912E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.73686E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.55828E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+140/200  111.1s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.23976E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.33083E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.21896E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.86247E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.50073E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.05073E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.02558E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.3054E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.64669E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.04761E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.0931E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.59276E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.84988E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.00323E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.21775E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.83081E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.16537E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.52263E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.14206E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.418E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+160/200  124.2s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.26369E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.9484E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.36699E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 8.59271E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.60275E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.3339E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.33681E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.90963E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.90688E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 6.71844E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.26304E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.57883E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.66982E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.06669E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.89848E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.9512E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.25363E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.15411E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 9.47842E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.4502E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+180/200  136.9s
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.44953E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.52095E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.20878E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.97028E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.65099E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.35956E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.88877E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.35703E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.80621E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 0.000107431, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.9522E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.19581E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 4.09605E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.31072E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.2515E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 20. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 20.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 5.36162E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 1.95927E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 7.78075E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 3.37073E-05, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver is encountering difficulty in simulating model 'cars' at time 10. Simulink will continue to simulate with warnings. Please
+check the model for errors.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+[Warning: Solver was unable to reduce the step size without violating minimum step size of 0.01 for 1 consecutive times at time 10.  Solver
+will continue simulation with the step size restricted to 0.01 and using an effective relative error tolerance of 2.03623E-06, which is
+greater than the specified relative error tolerance of 1E-06. This usually may be caused by the high stiffness of the system. Please check
+the system or increase the solver Number of consecutive min steps violation parameter.] 
+[> In run_cc_reference (line 51)
+In run (line 100)] 
+200/200  150.0s
+wrote results/matlab/cc_outputs_simulink_step_tol1e-6.csv (200 runs, 150.0 s)

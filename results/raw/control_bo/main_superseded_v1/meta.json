@@ -1,0 +1,85 @@
+{
+ "experiment": "control_bo",
+ "run_id": "main",
+ "created": "2026-10-18T19:42:49",
+ "sessions": [
+  {
+   "started": "2026-10-18T19:42:49",
+   "argv": [
+    "experiments/run_control_bo.py",
+    "--config",
+    "configs/control_bo.yaml",
+    "--run-id",
+    "main",
+    "--workers",
+    "10",
+    "--specs",
+    "phi8",
+    "phi7",
+    "phi6",
+    "phi5",
+    "phi4",
+    "phi3",
+    "phi2",
+    "phi1"
+   ],
+   "source_sha256": "2c084dc51d1d84d52ea4e5212461db6540a694b8bd8c72892308ec2189865100",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T20:06:34",
+   "n_new_records": 400,
+   "elapsed_s": 1425.6
+  }
+ ],
+ "config": {
+  "experiment": "control_bo",
+  "seed_base": 3000,
+  "reps": 50,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5",
+   "phi6",
+   "phi7",
+   "phi8"
+  ],
+  "bo": {
+   "n_init": 5,
+   "max_iter": 200,
+   "n_uniform": 1000,
+   "n_local": 1000,
+   "local_scales": [
+    0.02,
+    0.1
+   ],
+   "top_k": 5,
+   "xi": 0.0
+  },
+  "uav": {
+   "m": 0.5,
+   "Ix": 0.005,
+   "Iy": 0.005,
+   "Iz": 0.009,
+   "g": 9.81
+  },
+  "tracker": {
+   "kp_x": 4.0,
+   "kd_x": 4.0,
+   "tilt_max_deg": 35.0,
+   "dt": 0.01,
+   "sample_period": 1.0
+  }
+ }
+}

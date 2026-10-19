@@ -1,0 +1,70 @@
+{
+ "experiment": "table4",
+ "run_id": "pilot",
+ "created": "2026-10-18T15:43:00",
+ "sessions": [
+  {
+   "started": "2026-10-18T15:43:00",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/table4.yaml",
+    "--run-id",
+    "pilot",
+    "--trials",
+    "1",
+    "--workers",
+    "10"
+   ],
+   "source_sha256": "43806dbaefabf331695a3a396c013bef3b733f2b8c6244d79cdbcfa5a14124ff",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T15:50:15",
+   "n_new_records": 10,
+   "elapsed_s": 434.8
+  }
+ ],
+ "config": {
+  "experiment": "table4",
+  "seed_base": 1000,
+  "n_trials": 1,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5"
+  ],
+  "methods": [
+   "PROF-all",
+   "SEQ-BO"
+  ],
+  "cc": {
+   "horizon": 100.0,
+   "n_segments": 10,
+   "sample_dt": 10.0
+  },
+  "bo": {
+   "n_init": 5,
+   "max_iter": 200,
+   "n_uniform": 1000,
+   "n_local": 1000,
+   "local_scales": [
+    0.02,
+    0.1
+   ],
+   "top_k": 5,
+   "xi": 0.0
+  }
+ }
+}

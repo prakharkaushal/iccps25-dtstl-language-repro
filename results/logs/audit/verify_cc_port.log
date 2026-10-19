@@ -1,0 +1,31 @@
+PASS lead dynamics
+PASS Car 2 Chasing
+PASS Car 2 Keeping (y_dot=+v, no v_dot)
+PASS Car 2 Braking
+PASS Car 2 guards
+PASS Car 3 Chasing
+PASS Car 3 Keeping (y_dot=+v, no v_dot)
+PASS Car 3 Braking
+PASS Car 3 guards
+PASS Car 4 Chasing
+PASS Car 4 Keeping (y_dot=+v, no v_dot)
+PASS Car 4 Braking
+PASS Car 4 guards
+PASS Car 5 Chasing
+PASS Car 5 Keeping (y_dot=+v, no v_dot)
+PASS Car 5 Braking
+PASS Car 5 guards
+PASS Car 1 y(0) = 0
+PASS Car 1 v(0) = 0
+PASS Car 2 y(0) = 10
+PASS Car 2 v(0) = 0
+PASS Car 3 y(0) = 20
+PASS Car 3 v(0) = 0
+PASS Car 4 y(0) = 30
+PASS Car 4 v(0) = 0
+PASS Car 5 y(0) = 40
+PASS Car 5 v(0) = 0
+PASS wiring Car i -> Car i+1
+PASS Solver = VariableStepAuto
+PASS RelTol = 1e-3
+PASS StopTime = 100

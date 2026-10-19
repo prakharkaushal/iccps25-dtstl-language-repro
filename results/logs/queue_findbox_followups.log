@@ -1,0 +1,56 @@
+[2026-10-18 23:27:34] START tables findbox_default
+wrote results\tables\table2_3_findbox_default.md
+[2026-10-18 23:27:37] END rc=0
+[2026-10-18 23:27:37] START plot findbox_default
+Traceback (most recent call last):
+  File "C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_falsification.py", line 66, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\prana\OneDrive\Desktop\target_project\analysis\plot_falsification.py", line 41, in main
+    vals = np.array([max(r[key], 0.5) for r in rs])
+                     ~~~^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'float' and 'NoneType'
+[2026-10-18 23:27:40] END rc=1
+[2026-10-18 23:41:23] WAIT for FindBox besteffort phi1/phi3 (records.jsonl -> 10 lines)
+[2026-10-19 02:51:58] FindBox records: 9
+[2026-10-19 02:51:58] FindBox job ended with 9/10 records: besteffort phi1/phi3 falsification SKIPPED
+[2026-10-19 02:51:58] START findbox quality
+# FindBox approximations of L(¬φ) vs the exact language `[ours]`
+
+FindBox run `main` (results/raw/findbox/main/); E1 signals from run `main`; 20000 sample points per estimate (seed 0). Box counts: FindBox [ours] vs paper Table 1 [paper] vs exact language [ours].
+
+| Variant | Req | boxes [ours, FindBox] | boxes [paper] | boxes exact [ours] | samples inside L(¬φ) during build | precision (volume) | recall in D (volume) | reachable recall (E1 violations covered) | reachable precision (E1 signals in boxes that violate) | FindBox time (s) | oracle calls |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| besteffort | phi2 | 5 | 3 | 8 | 5/1000 | 1.000 | 0.547 | 0.429 (84 violations) | 0.537 (67 in boxes) | 119 | 1008747 |
+| besteffort | phi3 | 108 | 85 | 27 | 276/1000 | 1.000 | 0.560 | 0.168 (423 violations) | 1.000 (71 in boxes) | 9301 | 5155409 |
+| besteffort | phi4 | 53 | 2 | 27 | 57/1000 | 0.216 | 0.518 | 1.000 (85 violations) | 1.000 (85 in boxes) | 757 | 3107456 |
+| besteffort | phi5 | 5 | 7 | 7 | 5/1000 | 1.000 | 0.622 | 0.692 (52 violations) | 0.537 (67 in boxes) | 140 | 1008747 |
+| default | phi1 | 3 | 7 | 11 | 1001/1001 | 1.000 | 0.756 | 1.000 (70 violations) | 0.007 (10000 in boxes) | 4360 | 13459623 |
+| default | phi2 | 1 | 3 | 8 | 1/1001 | 1.000 | 0.141 | 0.000 (84 violations) | 0.000 (265 in boxes) | 2 | 14770 |
+| default | phi3 | 54 | 85 | 27 | 96/1001 | 1.000 | 0.727 | 1.000 (423 violations) | 1.000 (423 in boxes) | 515 | 1150627 |
+| default | phi4 | 0 | 2 | 27 | 0/1001 | nan | 0.000 | 0.000 (85 violations) | — (0 in boxes) | 0 | 1001 |
+| default | phi5 | 1 | 7 | 7 | 1/1001 | 1.000 | 0.152 | 0.000 (52 violations) | 0.000 (265 in boxes) | 2 | 14770 |
+
+## Table 1 recomputed with FindBox languages (10,000 E1 signals) `[ours]` vs the paper `[paper]`
+
+| Variant | Req | value agreement % [ours] | [paper] | sign-only % [ours] | [paper] | complete disagreement % [ours] | [paper] |
+|---|---|---|---|---|---|---|---|
+| besteffort | phi2 | 58.67 | 42.60 | 40.85 | 57.40 | 0.48 | 0.00 |
+| besteffort | phi3 | 63.84 | 100.00 | 32.64 | 0.00 | 3.52 | 0.00 |
+| besteffort | phi4 | 100.00 | 42.61 | 0.00 | 57.38 | 0.00 | 0.01 |
+| besteffort | phi5 | 72.07 | 100.00 | 27.77 | 0.00 | 0.16 | 0.00 |
+| default | phi1 | 0.00 | 100.00 | 0.70 | 0.00 | 99.30 | 0.00 |
+| default | phi2 | 37.41 | 42.60 | 61.75 | 57.40 | 0.84 | 0.00 |
+| default | phi3 | 94.84 | 100.00 | 5.16 | 0.00 | 0.00 | 0.00 |
+| default | phi4 | — (no boxes) | 42.61 | — (no boxes) | 57.38 | — (no boxes) | 0.01 |
+| default | phi5 | 39.64 | 100.00 | 59.84 | 0.00 | 0.52 | 0.00 |
+
+Notes: 'complete disagreement' = the FindBox language monitor and RTAMT disagree on whether the signal violates φ. FindBox samples on the integer grid in the 'default' variant, so violation sets of width < 1 (φ4: 32 < x < 33) cannot be found there.
+[2026-10-19 02:52:05] END rc=0
+[2026-10-19 02:52:05] START tables findbox_besteffort
+wrote results\tables\table2_3_findbox_besteffort.md
+[2026-10-19 02:52:09] END rc=0
+[2026-10-19 02:52:09] START plot findbox_besteffort
+wrote results\tables\falsification_findbox_besteffort.png
+[2026-10-19 02:52:13] END rc=0
+[2026-10-19 02:52:13] QUEUE DONE

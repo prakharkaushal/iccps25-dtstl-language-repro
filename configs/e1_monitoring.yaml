@@ -1,0 +1,9 @@
+# E1: paper Table 1 (language monitor vs RTAMT) on the Chasing Cars model.
+experiment: e1_monitoring
+seed: 7                          # D12: inputs ~ U[0,1]^20 drawn from this seed
+n_samples: 10000                 # [paper] 10,000 uniformly sampled input signals
+fine_grid_timing_samples: 200    # extra (not in paper): RTAMT timing on 1 s / 0.1 s grids
+cc:
+  horizon: 100.0                 # [paper]
+  n_segments: 10                 # [paper]
+  sample_dt: 10.0                # [paper] 0.1 Hz; D1 -> 11 samples

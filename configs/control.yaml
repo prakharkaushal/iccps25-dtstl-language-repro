@@ -1,0 +1,24 @@
+# E5: paper Table 5 (LangControl LCW vs LCP) on the UAV model. Paper-stated items marked [paper];
+# all others are our decisions because the paper gives no values (DEVIATIONS.md, D14-D21).
+experiment: control
+seed_base: 2000
+reps: 1000                      # [paper] 1000 runs per formula, varying the initial reference
+specs: [phi1, phi2, phi3, phi4, phi5, phi6, phi7, phi8]   # [paper] Eqs. 14-21 (D17 lengths)
+variants: [LCW, LCP]            # [paper]
+max_boxes: 5000
+langcontrol:
+  M: 500                        # D16 outer restarts (paper: "failure limits M and K", no values)
+  K: 10                         # D16 projections per reference
+  max_processes: 64             # D21 cap on LCP processes (seeded random subset of boxes)
+uav:                            # D14 typical small quadrotor (paper gives no values)
+  m: 0.5
+  Ix: 0.005
+  Iy: 0.005
+  Iz: 0.009
+  g: 9.81
+tracker:                        # D15 our cascaded PD tracker; D20 one sample per second
+  kp_x: 4.0
+  kd_x: 4.0
+  tilt_max_deg: 35.0
+  dt: 0.01
+  sample_period: 1.0

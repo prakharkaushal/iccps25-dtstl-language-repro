@@ -1,0 +1,5 @@
+# FindBox recon scaling, best-effort phi1 (continuous sampling on [0,70]^11, seed 0), measured 2026-10-19 ~02:10-02:50
+# run_findbox(stl.Not(phi1), 11, 0, 70, n_samples=n, seed=0, n_check=10, sampler='continuous'); concurrent with the main FindBox job
+n=  50 inside   50 corners   2028 boxes    9 walk   29.2s recon+check    25.6s
+n= 100 inside  100 corners   4034 boxes   11 walk   33.9s recon+check    71.6s
+n= 200 inside  200 corners   8038 boxes    9 walk   48.0s recon+check   542.3s

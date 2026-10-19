@@ -1,0 +1,2 @@
+1 (spec, variant) runs with 1000 replications each -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\control\final_check
+[    4.8s] phi4 LCP: P_bar=1.229 failures=0/1000 boxes=36 procs=36 tracks=44244 wall=4.8s

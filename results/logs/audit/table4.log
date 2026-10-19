@@ -1,0 +1,6 @@
+3 runs to do (0 already done) -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\table4\audit_rerun
+[1/3    86.0s] phi4 trial  0 SEQ-BO    falsified=True S=242 sims=247 T_T=41.163ms wall=72.0s falsified
+[2/3   105.2s] phi2 trial  0 SEQ-BO    falsified=True S=337 sims=342 T_T=34.555ms wall=91.5s falsified
+[3/3   107.5s] phi5 trial  0 SEQ-BO    falsified=True S=277 sims=282 T_T=26.088ms wall=92.6s falsified
+1 runs to do (3 already done) -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\table4\audit_rerun
+[1/1   136.3s] phi5 trial  0 PROF-all  falsified=True S=57 sims=1183 T_T=30.179ms wall=135.4s cap

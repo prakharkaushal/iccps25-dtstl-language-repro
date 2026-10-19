@@ -1,0 +1,24 @@
+# E2/E3 with FindBox languages (variant in the language block below); otherwise identical to falsification.yaml.
+# Paper-stated settings are marked [paper]; everything else is our documented decision (DEVIATIONS.md).
+experiment: falsification
+seed_base: 1000                 # D12: trial t uses seed 1000 + t
+n_trials: 20                    # [paper] 20 independent trials
+specs: [phi1, phi2, phi3, phi4, phi5]          # [paper] Eqs. 8-12 (discretised with D1/D2)
+methods: [PROF, PBO-RTAMT, SMuRF, SBO-RTAMT]   # [paper] Tables 2-3
+cc:                             # Chasing Cars port (src/langfal/systems/chasing_cars.py)
+  horizon: 100.0                # [paper] 100 s
+  n_segments: 10                # [paper] 10 control points per input (u in [0,1]^20)
+  sample_dt: 10.0               # [paper] 0.1 Hz; D1 -> 11 samples t = 0..100 s
+bo:
+  n_init: 5                     # [paper] same five starting points for both methods
+  max_iter: 200                 # [paper] terminate after 200 iterations
+  n_uniform: 1000               # D6 acquisition candidates (uniform)
+  n_local: 1000                 # D6 acquisition candidates (around top-k incumbents)
+  local_scales: [0.02, 0.1]     # D6
+  top_k: 5                      # D6
+  xi: 0.0                       # D6 EI exploration parameter
+# Language of not-phi from FindBox (paper Sec. 3.2) instead of the exact compiler: results/raw/findbox/main/<variant>_<spec>.json
+language:
+  source: findbox
+  run: main
+  variant: besteffort

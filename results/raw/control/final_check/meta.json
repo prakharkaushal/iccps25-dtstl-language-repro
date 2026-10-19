@@ -1,0 +1,77 @@
+{
+ "experiment": "control",
+ "run_id": "final_check",
+ "created": "2026-10-19T03:56:51",
+ "sessions": [
+  {
+   "started": "2026-10-19T03:56:51",
+   "argv": [
+    "experiments/run_control.py",
+    "--config",
+    "configs/control.yaml",
+    "--run-id",
+    "final_check",
+    "--specs",
+    "phi4",
+    "--variants",
+    "LCP",
+    "--workers",
+    "1"
+   ],
+   "source_sha256": "643e3bb4ffd9198222929cc01692c8ff14bd19c6cf41e77e6747b7bb153614b6",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-19T03:56:56",
+   "elapsed_s": 4.8
+  }
+ ],
+ "config": {
+  "experiment": "control",
+  "seed_base": 2000,
+  "reps": 1000,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5",
+   "phi6",
+   "phi7",
+   "phi8"
+  ],
+  "variants": [
+   "LCW",
+   "LCP"
+  ],
+  "max_boxes": 5000,
+  "langcontrol": {
+   "M": 500,
+   "K": 10,
+   "max_processes": 64
+  },
+  "uav": {
+   "m": 0.5,
+   "Ix": 0.005,
+   "Iy": 0.005,
+   "Iz": 0.009,
+   "g": 9.81
+  },
+  "tracker": {
+   "kp_x": 4.0,
+   "kd_x": 4.0,
+   "tilt_max_deg": 35.0,
+   "dt": 0.01,
+   "sample_period": 1.0
+  }
+ }
+}

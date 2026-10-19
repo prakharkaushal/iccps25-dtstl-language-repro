@@ -1,0 +1,46 @@
+{
+ "experiment": "e1_monitoring",
+ "run_id": "audit_rerun",
+ "created": "2026-10-19T00:58:45",
+ "sessions": [
+  {
+   "started": "2026-10-19T00:58:45",
+   "argv": [
+    "experiments/run_e1_monitoring.py",
+    "--config",
+    "configs/e1_monitoring.yaml",
+    "--run-id",
+    "audit_rerun",
+    "--workers",
+    "8"
+   ],
+   "source_sha256": "ebb7c1956c5d067fe7fb52a015a981ea249eeda751d052a5cf4f5c332cb0f0df",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-19T01:09:02",
+   "elapsed_s": 614.0,
+   "simulation_s": 357.6
+  }
+ ],
+ "config": {
+  "experiment": "e1_monitoring",
+  "seed": 7,
+  "n_samples": 10000,
+  "fine_grid_timing_samples": 200,
+  "cc": {
+   "horizon": 100.0,
+   "n_segments": 10,
+   "sample_dt": 10.0
+  }
+ }
+}

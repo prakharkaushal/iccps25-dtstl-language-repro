@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# third-party model downloaded for verification only (not redistributed)
+external/
+# Simulink build caches created by MATLAB runs (regenerated on demand)
+*.slxc
+slprj/
+# reference project: third-party repository without a license (read-only input, not redistributed)
+reference_project/

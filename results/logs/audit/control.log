@@ -1,0 +1,5 @@
+4 (spec, variant) runs with 1000 replications each -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\control\audit_rerun
+[  122.3s] phi4 LCP: P_bar=1.229 failures=0/1000 boxes=36 procs=36 tracks=44244 wall=89.0s
+[  152.4s] phi3 LCP: P_bar=1.0 failures=0/1000 boxes=110 procs=64 tracks=64000 wall=119.7s
+[  165.2s] phi3 LCW: P_bar=10.635 failures=0/1000 boxes=110 procs=1 tracks=10635 wall=132.5s
+[  270.4s] phi4 LCW: P_bar=30.725 failures=0/1000 boxes=36 procs=1 tracks=30725 wall=237.2s

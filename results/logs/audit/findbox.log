@@ -1,0 +1,6 @@
+3 FindBox runs -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\findbox\audit_rerun
+[    9.1s] default phi4: boxes=0 inside=0/1001 oracle_calls=1001 time=1s over_bad=0/0 under_bad=0/0
+[   16.9s] default phi2: boxes=1 inside=1/1001 oracle_calls=14770 time=8s over_bad=0/333 under_bad=1/1
+[   18.0s] default phi5: boxes=1 inside=1/1001 oracle_calls=14770 time=10s over_bad=0/333 under_bad=1/1
+1 FindBox runs -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\findbox\audit_rerun
+[  177.2s] besteffort phi2: boxes=5 inside=5/1000 oracle_calls=1008747 time=169s over_bad=0/1005 under_bad=1/3

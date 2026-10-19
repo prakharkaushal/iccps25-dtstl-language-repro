@@ -1,0 +1,2 @@
+60 numpy.core.multiarray scalar
+60 numpy dtype

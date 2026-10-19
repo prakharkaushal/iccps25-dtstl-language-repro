@@ -1,0 +1,15 @@
+# FindBox approximations of L(not phi) for the Chasing Cars requirements (signal x = y5 - y4, 11 samples, D1).
+# The paper does not state FindBox's settings (signal-space bounds, sample size); D25 in DEVIATIONS.md.
+experiment: findbox
+specs: [phi1, phi2, phi3, phi4, phi5]
+variants:
+  default:                 # FindBox as shipped: Box() default borders give the integer grid 0..100,
+    bounds: [0, 100]       # FindBox() samples 1000 points with random.randint
+    n_samples: 1000
+    sampler: integer
+    seed: 0
+  besteffort:              # our attempt to give FindBox a fair chance: continuous sampling (FindBox's own
+    bounds: [0, 70]        # sampleC) and bounds close to the reachable range of y5 - y4 (E1: 7.6 .. 68.8)
+    n_samples: 1000
+    sampler: continuous
+    seed: 0

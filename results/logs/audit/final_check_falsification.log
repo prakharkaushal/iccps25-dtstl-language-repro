@@ -1,0 +1,9 @@
+8 runs to do (0 already done) -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\falsification\final_check
+[1/8     5.0s] phi3 trial 13 SBO-RTAMT falsified=True S=0 sims=5 T_T=1.569ms wall=0.1s falsified
+[2/8     5.0s] phi3 trial 13 SMuRF     falsified=True S=0 sims=5 T_T=0.748ms wall=0.1s falsified
+[3/8     5.1s] phi3 trial 13 PROF      falsified=True S=0 sims=5 T_T=0.151ms wall=0.1s falsified
+[4/8     5.1s] phi3 trial 13 PBO-RTAMT falsified=True S=0 sims=5 T_T=1.220ms wall=0.1s falsified
+[5/8     5.5s] phi4 trial 13 SBO-RTAMT falsified=True S=12 sims=17 T_T=4.752ms wall=0.5s falsified
+[6/8     6.5s] phi4 trial 13 PBO-RTAMT falsified=True S=1 sims=32 T_T=1.581ms wall=1.5s falsified
+[7/8     7.4s] phi4 trial 13 SMuRF     falsified=True S=6 sims=11 T_T=1.225ms wall=2.5s falsified
+[8/8    10.7s] phi4 trial 13 PROF      falsified=True S=9 sims=248 T_T=0.599ms wall=5.7s falsified

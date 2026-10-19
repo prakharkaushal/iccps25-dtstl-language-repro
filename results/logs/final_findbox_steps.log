@@ -1,0 +1,10 @@
+[02:51:29] falsification findbox_besteffort phi3
+rc=0
+[03:53:17] findbox quality
+rc=0
+[03:53:19] tables + plot
+wrote results\tables\table2_3_findbox_besteffort.md
+rc=0
+wrote results\tables\falsification_findbox_besteffort.png
+rc=0
+[03:53:22] done

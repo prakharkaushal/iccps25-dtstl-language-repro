@@ -1,0 +1,11 @@
+# Direct dependencies, pinned to the versions used for every recorded run (Python 3.14.7, Windows 11).
+# requirements-lock.txt is the full `pip freeze` of the environment.
+numpy==2.5.2
+scipy==1.18.1
+scikit-learn==1.9.1
+PyYAML==6.0.3
+# RTAMT (BSD) = the paper's robustness monitor (ref. [37]); 0.3.5 pins antlr4 4.7, which needs the
+# typing.io shim in src/langfal/monitors.py on Python >= 3.13 (no third-party file is modified).
+rtamt==0.3.5
+antlr4-python3-runtime==4.7
+pytest==9.1.1

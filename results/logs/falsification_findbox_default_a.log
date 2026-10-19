@@ -1,0 +1,321 @@
+320 runs to do (0 already done) -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\falsification\findbox_default
+[1/320     6.2s] phi3 trial  1 SBO-RTAMT falsified=True S=7 sims=12 T_T=5.555ms wall=0.8s falsified
+[2/320     6.9s] phi3 trial  0 SBO-RTAMT falsified=True S=19 sims=24 T_T=8.176ms wall=2.0s falsified
+[3/320    12.8s] phi3 trial  0 PBO-RTAMT falsified=True S=1 sims=59 T_T=6.045ms wall=8.1s falsified
+[4/320    17.9s] phi3 trial  0 PROF      falsified=True S=2 sims=113 T_T=2.562ms wall=13.2s falsified
+[5/320    18.2s] phi3 trial  1 PROF      falsified=True S=2 sims=113 T_T=4.562ms wall=13.3s falsified
+[6/320    19.2s] phi3 trial  2 SBO-RTAMT falsified=True S=11 sims=16 T_T=6.081ms wall=1.2s falsified
+[7/320    21.4s] phi3 trial  1 PBO-RTAMT falsified=True S=3 sims=167 T_T=10.498ms wall=16.4s falsified
+[8/320    28.9s] phi3 trial  2 PROF      falsified=True S=4 sims=221 T_T=4.960ms wall=22.8s falsified
+[9/320    31.7s] phi3 trial  2 SMuRF     falsified=True S=8 sims=13 T_T=4.834ms wall=18.8s falsified
+[10/320    32.0s] phi3 trial  3 SBO-RTAMT falsified=True S=34 sims=39 T_T=25.132ms wall=3.0s falsified
+[11/320    37.6s] phi3 trial  3 PBO-RTAMT falsified=True S=3 sims=167 T_T=12.174ms wall=18.4s falsified
+[12/320    37.9s] phi3 trial  4 PBO-RTAMT falsified=True S=1 sims=59 T_T=5.001ms wall=5.9s falsified
+[13/320    38.2s] phi3 trial  4 SBO-RTAMT falsified=True S=1 sims=6 T_T=2.166ms wall=0.3s falsified
+[14/320    38.6s] phi3 trial  4 PROF      falsified=True S=1 sims=59 T_T=2.998ms wall=6.9s falsified
+[15/320    42.7s] phi3 trial  4 SMuRF     falsified=True S=1 sims=6 T_T=3.139ms wall=5.1s falsified
+[16/320    51.2s] phi3 trial  2 PBO-RTAMT falsified=True S=9 sims=491 T_T=30.556ms wall=44.2s falsified
+[17/320    52.5s] phi3 trial  5 SBO-RTAMT falsified=True S=13 sims=18 T_T=11.063ms wall=1.3s falsified
+[18/320    56.6s] phi3 trial  3 PROF      falsified=True S=8 sims=437 T_T=9.157ms wall=38.3s falsified
+[19/320    58.1s] phi3 trial  5 PROF      falsified=True S=4 sims=221 T_T=3.960ms wall=19.9s falsified
+[20/320    60.6s] phi3 trial  3 SMuRF     falsified=True S=17 sims=22 T_T=6.265ms wall=39.3s falsified
+[21/320    61.4s] phi3 trial  6 SBO-RTAMT falsified=True S=6 sims=11 T_T=6.703ms wall=0.8s falsified
+[22/320    61.7s] phi3 trial  7 PROF      falsified=True S=0 sims=5 T_T=1.587ms wall=0.2s falsified
+[23/320    61.9s] phi3 trial  7 PBO-RTAMT falsified=True S=0 sims=5 T_T=2.564ms wall=0.3s falsified
+[24/320    62.1s] phi3 trial  7 SMuRF     falsified=True S=0 sims=5 T_T=0.850ms wall=0.2s falsified
+[25/320    62.3s] phi3 trial  7 SBO-RTAMT falsified=True S=0 sims=5 T_T=3.432ms wall=0.2s falsified
+[26/320    65.7s] phi3 trial  1 SMuRF     falsified=True S=27 sims=32 T_T=11.170ms wall=60.6s falsified
+[27/320    70.1s] phi3 trial  6 PBO-RTAMT falsified=True S=2 sims=113 T_T=7.890ms wall=13.6s falsified
+[28/320    73.6s] phi3 trial  6 PROF      falsified=True S=4 sims=221 T_T=4.090ms wall=21.1s falsified
+[29/320    74.2s] phi3 trial  8 SBO-RTAMT falsified=True S=4 sims=9 T_T=6.032ms wall=0.5s falsified
+[30/320    76.8s] phi3 trial  5 PBO-RTAMT falsified=True S=8 sims=437 T_T=20.824ms wall=38.2s falsified
+[31/320    77.0s] phi3 trial  6 SMuRF     falsified=True S=8 sims=13 T_T=3.835ms wall=18.9s falsified
+[32/320    77.6s] phi3 trial  8 PBO-RTAMT falsified=True S=2 sims=113 T_T=7.823ms wall=11.9s falsified
+[33/320    78.1s] phi3 trial  9 SBO-RTAMT falsified=True S=3 sims=8 T_T=3.608ms wall=0.5s falsified
+[34/320    78.1s] phi3 trial  8 SMuRF     falsified=True S=2 sims=7 T_T=3.041ms wall=8.0s falsified
+[35/320    78.3s] phi3 trial 10 PROF      falsified=True S=0 sims=5 T_T=1.813ms wall=0.2s falsified
+[36/320    78.4s] phi3 trial 10 PBO-RTAMT falsified=True S=0 sims=5 T_T=3.230ms wall=0.3s falsified
+[37/320    78.5s] phi3 trial 10 SMuRF     falsified=True S=0 sims=5 T_T=0.912ms wall=0.2s falsified
+[38/320    78.6s] phi3 trial 10 SBO-RTAMT falsified=True S=0 sims=5 T_T=1.656ms wall=0.2s falsified
+[39/320    82.5s] phi3 trial  5 SMuRF     falsified=True S=18 sims=23 T_T=8.695ms wall=39.7s falsified
+[40/320    82.8s] phi3 trial  8 PROF      falsified=True S=4 sims=221 T_T=6.199ms wall=20.4s falsified
+[41/320    83.2s] phi3 trial 11 SBO-RTAMT falsified=True S=1 sims=6 T_T=2.047ms wall=0.4s falsified
+[42/320    84.3s] phi3 trial  9 PBO-RTAMT falsified=True S=1 sims=59 T_T=6.843ms wall=7.5s falsified
+[43/320    85.2s] phi3 trial  9 SMuRF     falsified=True S=2 sims=7 T_T=1.240ms wall=8.2s falsified
+[44/320    86.0s] phi3 trial  9 PROF      falsified=True S=2 sims=113 T_T=2.795ms wall=11.9s falsified
+[45/320    86.9s] phi3 trial 11 PBO-RTAMT falsified=True S=1 sims=59 T_T=5.342ms wall=8.4s falsified
+[46/320    87.2s] phi3 trial 13 PROF      falsified=True S=0 sims=5 T_T=1.948ms wall=0.2s falsified
+[47/320    87.4s] phi3 trial 13 PBO-RTAMT falsified=True S=0 sims=5 T_T=3.083ms wall=0.3s falsified
+[48/320    87.6s] phi3 trial 13 SMuRF     falsified=True S=0 sims=5 T_T=0.904ms wall=0.2s falsified
+[49/320    87.8s] phi3 trial 13 SBO-RTAMT falsified=True S=0 sims=5 T_T=1.641ms wall=0.2s falsified
+[50/320    88.1s] phi3 trial 14 PROF      falsified=True S=0 sims=5 T_T=1.350ms wall=0.2s falsified
+[51/320    88.3s] phi3 trial 14 PBO-RTAMT falsified=True S=0 sims=5 T_T=3.041ms wall=0.3s falsified
+[52/320    88.5s] phi3 trial 14 SMuRF     falsified=True S=0 sims=5 T_T=0.845ms wall=0.2s falsified
+[53/320    88.7s] phi3 trial 14 SBO-RTAMT falsified=True S=0 sims=5 T_T=2.954ms wall=0.2s falsified
+[54/320    88.9s] phi3 trial 15 PROF      falsified=True S=0 sims=5 T_T=2.194ms wall=0.2s falsified
+[55/320    89.2s] phi3 trial 15 PBO-RTAMT falsified=True S=0 sims=5 T_T=2.856ms wall=0.3s falsified
+[56/320    89.4s] phi3 trial 15 SMuRF     falsified=True S=0 sims=5 T_T=2.742ms wall=0.2s falsified
+[57/320    89.6s] phi3 trial 15 SBO-RTAMT falsified=True S=0 sims=5 T_T=1.895ms wall=0.2s falsified
+[58/320   101.1s] phi3 trial 12 SBO-RTAMT falsified=True S=124 sims=129 T_T=62.675ms wall=15.1s falsified
+[59/320   101.3s] phi3 trial 16 PROF      falsified=True S=2 sims=113 T_T=4.355ms wall=11.7s falsified
+[60/320   106.6s] phi3 trial  0 SMuRF     falsified=True S=44 sims=49 T_T=17.075ms wall=101.9s falsified
+[61/320   107.1s] phi3 trial 16 SBO-RTAMT falsified=True S=3 sims=8 T_T=2.836ms wall=0.5s falsified
+[62/320   108.7s] phi3 trial 16 SMuRF     falsified=True S=2 sims=7 T_T=8.353ms wall=7.4s falsified
+[63/320   112.8s] phi3 trial 11 PROF      falsified=True S=7 sims=383 T_T=10.895ms wall=34.3s falsified
+[64/320   114.3s] phi3 trial 16 PBO-RTAMT falsified=True S=2 sims=113 T_T=7.433ms wall=13.2s falsified
+[65/320   116.5s] phi3 trial 17 SBO-RTAMT falsified=True S=24 sims=29 T_T=20.261ms wall=2.1s falsified
+[66/320   116.7s] phi3 trial 12 PBO-RTAMT falsified=True S=7 sims=383 T_T=18.899ms wall=32.3s falsified
+[67/320   122.7s] phi3 trial 17 PROF      falsified=True S=3 sims=167 T_T=3.994ms wall=15.6s falsified
+[68/320   124.6s] phi3 trial 17 PBO-RTAMT falsified=True S=3 sims=167 T_T=10.941ms wall=15.9s falsified
+[69/320   127.1s] phi3 trial 18 SBO-RTAMT falsified=True S=29 sims=34 T_T=21.012ms wall=2.5s falsified
+[70/320   127.3s] phi3 trial 19 PROF      falsified=True S=0 sims=5 T_T=1.658ms wall=0.2s falsified
+[71/320   127.6s] phi3 trial 19 PBO-RTAMT falsified=True S=0 sims=5 T_T=3.068ms wall=0.3s falsified
+[72/320   127.8s] phi3 trial 19 SMuRF     falsified=True S=0 sims=5 T_T=0.997ms wall=0.2s falsified
+[73/320   127.9s] phi3 trial 19 SBO-RTAMT falsified=True S=0 sims=5 T_T=1.653ms wall=0.2s falsified
+[74/320   132.2s] phi3 trial 18 PBO-RTAMT falsified=True S=3 sims=167 T_T=8.758ms wall=15.5s falsified
+[75/320   135.6s] phi3 trial 17 SMuRF     falsified=True S=9 sims=14 T_T=2.499ms wall=22.8s falsified
+[76/320   138.1s] phi3 trial 18 SMuRF     falsified=True S=7 sims=12 T_T=3.658ms wall=15.3s falsified
+[77/320   145.6s] phi3 trial 12 PROF      falsified=True S=14 sims=761 T_T=21.700ms wall=62.3s falsified
+[78/320   149.3s] phi3 trial 11 SMuRF     falsified=True S=29 sims=34 T_T=10.280ms wall=66.8s falsified
+[79/320   158.4s] phi2 trial  0 PROF      falsified=False S=200 sims=205 T_T=16.726ms wall=30.4s cap
+[80/320   160.8s] phi2 trial  0 PBO-RTAMT falsified=False S=200 sims=205 T_T=78.913ms wall=28.6s cap
+[81/320   166.2s] phi2 trial  0 SMuRF     falsified=False S=200 sims=205 T_T=35.218ms wall=30.5s cap
+[82/320   169.4s] phi2 trial  1 SBO-RTAMT falsified=True S=99 sims=104 T_T=39.456ms wall=8.6s falsified
+[83/320   169.5s] phi2 trial  0 SBO-RTAMT falsified=False S=200 sims=205 T_T=80.877ms wall=31.4s cap
+[84/320   176.5s] phi2 trial  1 PROF      falsified=False S=200 sims=205 T_T=8.327ms wall=30.9s cap
+[85/320   177.0s] phi2 trial  1 PBO-RTAMT falsified=False S=200 sims=205 T_T=90.636ms wall=27.7s cap
+[86/320   187.7s] phi2 trial  1 SMuRF     falsified=False S=200 sims=205 T_T=36.511ms wall=29.3s cap
+[87/320   190.6s] phi2 trial  3 PBO-RTAMT falsified=True S=32 sims=37 T_T=12.927ms wall=2.9s falsified
+[88/320   195.4s] phi2 trial  2 SMuRF     falsified=False S=200 sims=205 T_T=37.694ms wall=25.9s cap
+[89/320   196.6s] phi3 trial 18 PROF      falsified=True S=19 sims=1031 T_T=20.179ms wall=80.0s falsified
+[90/320   196.7s] phi2 trial  2 PROF      falsified=False S=200 sims=205 T_T=13.232ms wall=30.5s cap
+[91/320   198.2s] phi2 trial  2 PBO-RTAMT falsified=False S=200 sims=205 T_T=77.504ms wall=28.8s cap
+[92/320   199.6s] phi2 trial  3 SBO-RTAMT falsified=True S=52 sims=57 T_T=25.288ms wall=4.1s falsified
+[93/320   200.0s] phi2 trial  4 SBO-RTAMT falsified=True S=3 sims=8 T_T=4.352ms wall=0.4s falsified
+[94/320   201.4s] phi2 trial  4 PBO-RTAMT falsified=True S=65 sims=70 T_T=27.486ms wall=4.7s falsified
+[95/320   204.0s] phi2 trial  5 PBO-RTAMT falsified=True S=34 sims=39 T_T=12.509ms wall=2.6s falsified
+[96/320   204.0s] phi2 trial  2 SBO-RTAMT falsified=False S=200 sims=205 T_T=72.656ms wall=27.5s cap
+[97/320   204.9s] phi2 trial  3 PROF      falsified=False S=200 sims=205 T_T=15.090ms wall=27.9s cap
+[98/320   207.3s] phi2 trial  5 SBO-RTAMT falsified=True S=44 sims=49 T_T=16.572ms wall=3.3s falsified
+[99/320   215.0s] phi2 trial  6 PBO-RTAMT falsified=True S=86 sims=91 T_T=32.847ms wall=7.7s falsified
+[100/320   220.8s] phi2 trial  3 SMuRF     falsified=False S=200 sims=205 T_T=30.325ms wall=30.1s cap
+[101/320   222.3s] phi2 trial  6 SBO-RTAMT falsified=True S=18 sims=23 T_T=9.553ms wall=1.5s falsified
+[102/320   224.1s] phi2 trial  4 PROF      falsified=False S=200 sims=205 T_T=9.196ms wall=27.5s cap
+[103/320   225.3s] phi2 trial  5 PROF      falsified=False S=200 sims=205 T_T=10.998ms wall=25.3s cap
+[104/320   226.9s] phi2 trial  4 SMuRF     falsified=False S=200 sims=205 T_T=35.585ms wall=28.6s cap
+[105/320   229.4s] phi2 trial  5 SMuRF     falsified=False S=200 sims=205 T_T=33.800ms wall=25.4s cap
+[106/320   233.4s] phi2 trial  6 PROF      falsified=False S=200 sims=205 T_T=16.094ms wall=28.5s cap
+[107/320   235.3s] phi2 trial  7 SBO-RTAMT falsified=True S=93 sims=98 T_T=33.450ms wall=8.4s falsified
+[108/320   243.9s] phi2 trial  6 SMuRF     falsified=False S=200 sims=205 T_T=37.578ms wall=28.8s cap
+[109/320   248.6s] phi2 trial  7 PBO-RTAMT falsified=False S=200 sims=205 T_T=78.621ms wall=24.5s cap
+[110/320   249.3s] phi2 trial  7 PROF      falsified=False S=200 sims=205 T_T=13.389ms wall=26.9s cap
+[111/320   251.9s] phi2 trial  8 SBO-RTAMT falsified=True S=85 sims=90 T_T=36.519ms wall=8.0s falsified
+[112/320   253.2s] phi2 trial  7 SMuRF     falsified=False S=200 sims=205 T_T=33.668ms wall=27.8s cap
+[113/320   254.4s] phi3 trial 12 SMuRF     falsified=True S=65 sims=70 T_T=13.963ms wall=169.2s falsified
+[114/320   256.8s] phi2 trial  9 PBO-RTAMT falsified=True S=85 sims=90 T_T=30.558ms wall=7.5s falsified
+[115/320   257.6s] phi2 trial 10 PBO-RTAMT falsified=True S=8 sims=13 T_T=5.801ms wall=0.8s falsified
+[116/320   260.1s] phi2 trial  8 PBO-RTAMT falsified=True S=196 sims=201 T_T=73.610ms wall=26.7s falsified
+[117/320   261.4s] phi2 trial  8 PROF      falsified=False S=200 sims=205 T_T=11.029ms wall=32.0s cap
+[118/320   261.5s] phi2 trial 10 SBO-RTAMT falsified=True S=15 sims=20 T_T=6.127ms wall=1.3s falsified
+[119/320   265.8s] phi2 trial  8 SMuRF     falsified=False S=200 sims=205 T_T=37.605ms wall=30.5s cap
+[120/320   269.1s] phi2 trial 11 PBO-RTAMT falsified=True S=86 sims=91 T_T=31.059ms wall=7.6s falsified
+[121/320   270.3s] phi2 trial 11 SBO-RTAMT falsified=True S=14 sims=19 T_T=5.214ms wall=1.3s falsified
+[122/320   277.3s] phi2 trial  9 PROF      falsified=False S=200 sims=205 T_T=11.465ms wall=28.7s cap
+[123/320   279.1s] phi2 trial  9 SMuRF     falsified=False S=200 sims=205 T_T=37.001ms wall=27.1s cap
+[124/320   280.3s] phi2 trial 12 PBO-RTAMT falsified=True S=36 sims=41 T_T=14.353ms wall=3.0s falsified
+[125/320   281.7s] phi2 trial 10 PROF      falsified=False S=200 sims=205 T_T=13.695ms wall=27.2s cap
+[126/320   283.6s] phi2 trial 10 SMuRF     falsified=False S=200 sims=205 T_T=33.790ms wall=26.1s cap
+[127/320   288.9s] phi2 trial 11 PROF      falsified=False S=200 sims=205 T_T=11.200ms wall=27.4s cap
+[128/320   290.0s] phi2 trial 13 PBO-RTAMT falsified=True S=72 sims=77 T_T=31.576ms wall=6.4s falsified
+[129/320   292.7s] phi2 trial 13 SBO-RTAMT falsified=True S=35 sims=40 T_T=12.888ms wall=2.7s falsified
+[130/320   293.1s] phi2 trial 11 SMuRF     falsified=False S=200 sims=205 T_T=31.521ms wall=27.3s cap
+[131/320   293.8s] phi2 trial  9 SBO-RTAMT falsified=False S=200 sims=205 T_T=77.468ms wall=40.6s cap
+[132/320   297.6s] phi2 trial 12 PROF      falsified=False S=200 sims=205 T_T=14.563ms wall=27.2s cap
+[133/320   301.6s] phi2 trial 14 SBO-RTAMT falsified=True S=47 sims=52 T_T=19.516ms wall=4.0s falsified
+[134/320   306.8s] phi2 trial 12 SBO-RTAMT falsified=False S=200 sims=205 T_T=87.044ms wall=26.5s cap
+[135/320   308.4s] phi2 trial 13 PROF      falsified=False S=200 sims=205 T_T=9.861ms wall=26.7s cap
+[136/320   308.7s] phi2 trial 14 PBO-RTAMT falsified=True S=136 sims=141 T_T=58.944ms wall=15.6s falsified
+[137/320   308.8s] phi2 trial 12 SMuRF     falsified=False S=200 sims=205 T_T=33.045ms wall=29.7s cap
+[138/320   309.3s] phi2 trial 15 PBO-RTAMT falsified=True S=28 sims=33 T_T=11.448ms wall=2.5s falsified
+[139/320   311.5s] phi2 trial 15 SBO-RTAMT falsified=True S=36 sims=41 T_T=15.899ms wall=2.8s falsified
+[140/320   320.2s] phi2 trial 13 SMuRF     falsified=False S=200 sims=205 T_T=34.244ms wall=31.3s cap
+[141/320   320.6s] phi2 trial 16 SBO-RTAMT falsified=True S=1 sims=6 T_T=1.558ms wall=0.4s falsified
+[142/320   320.9s] phi2 trial 14 SMuRF     falsified=False S=200 sims=205 T_T=38.382ms wall=27.1s cap
+[143/320   321.1s] phi2 trial 17 PBO-RTAMT falsified=True S=0 sims=5 T_T=2.130ms wall=0.2s falsified
+[144/320   321.8s] phi2 trial 14 PROF      falsified=False S=200 sims=205 T_T=12.795ms wall=29.1s cap
+[145/320   322.0s] phi2 trial 17 SBO-RTAMT falsified=True S=0 sims=5 T_T=2.821ms wall=0.2s falsified
+[146/320   329.8s] phi2 trial 15 PROF      falsified=False S=200 sims=205 T_T=8.870ms wall=28.2s cap
+[147/320   334.7s] phi2 trial 18 PBO-RTAMT falsified=True S=60 sims=65 T_T=26.588ms wall=4.9s falsified
+[148/320   336.5s] phi2 trial 15 SMuRF     falsified=False S=200 sims=205 T_T=36.791ms wall=28.1s cap
+[149/320   338.0s] phi2 trial 16 SMuRF     falsified=False S=200 sims=205 T_T=36.898ms wall=26.5s cap
+[150/320   338.7s] phi2 trial 16 PROF      falsified=False S=200 sims=205 T_T=19.564ms wall=29.9s cap
+[151/320   339.1s] phi2 trial 18 SBO-RTAMT falsified=True S=34 sims=39 T_T=18.558ms wall=2.6s falsified
+[152/320   339.4s] phi2 trial 16 PBO-RTAMT falsified=True S=194 sims=199 T_T=74.867ms wall=30.1s falsified
+[153/320   348.0s] phi2 trial 17 SMuRF     falsified=False S=200 sims=205 T_T=35.086ms wall=26.9s cap
+[154/320   348.1s] phi2 trial 18 PROF      falsified=False S=200 sims=205 T_T=11.239ms wall=26.1s cap
+[155/320   350.9s] phi2 trial 17 PROF      falsified=False S=200 sims=205 T_T=15.398ms wall=30.3s cap
+[156/320   362.3s] phi2 trial 18 SMuRF     falsified=False S=200 sims=205 T_T=38.436ms wall=27.5s cap
+[157/320   363.0s] phi5 trial  0 SBO-RTAMT falsified=True S=5 sims=10 T_T=4.683ms wall=0.7s falsified
+[158/320   366.1s] phi2 trial 19 PBO-RTAMT falsified=False S=200 sims=205 T_T=69.827ms wall=27.3s cap
+[159/320   367.2s] phi2 trial 19 SMuRF     falsified=False S=200 sims=205 T_T=36.907ms wall=28.1s cap
+[160/320   368.6s] phi2 trial 19 PROF      falsified=False S=200 sims=205 T_T=8.343ms wall=30.6s cap
+[161/320   371.9s] phi2 trial 19 SBO-RTAMT falsified=False S=200 sims=205 T_T=74.706ms wall=32.5s cap
+[162/320   373.3s] phi5 trial  0 PROF      falsified=False S=200 sims=205 T_T=13.751ms wall=25.3s cap
+[163/320   376.1s] phi5 trial  2 PBO-RTAMT falsified=True S=35 sims=40 T_T=22.227ms wall=2.8s falsified
+[164/320   378.3s] phi5 trial  0 PBO-RTAMT falsified=False S=200 sims=205 T_T=91.440ms wall=30.1s cap
+[165/320   380.1s] phi5 trial  0 SMuRF     falsified=False S=200 sims=205 T_T=33.233ms wall=29.2s cap
+[166/320   392.2s] phi5 trial  1 PROF      falsified=False S=200 sims=205 T_T=11.765ms wall=29.2s cap
+[167/320   395.2s] phi5 trial  1 SBO-RTAMT falsified=False S=200 sims=205 T_T=88.173ms wall=26.5s cap
+[168/320   395.5s] phi5 trial  1 SMuRF     falsified=False S=200 sims=205 T_T=36.122ms wall=28.3s cap
+[169/320   397.7s] phi5 trial  1 PBO-RTAMT falsified=False S=200 sims=205 T_T=95.905ms wall=31.6s cap
+[170/320   398.4s] phi5 trial  2 PROF      falsified=False S=200 sims=205 T_T=9.353ms wall=26.5s cap
+[171/320   404.8s] phi5 trial  2 SMuRF     falsified=False S=200 sims=205 T_T=34.432ms wall=28.7s cap
+[172/320   405.2s] phi5 trial  2 SBO-RTAMT falsified=False S=200 sims=205 T_T=85.476ms wall=26.9s cap
+[173/320   409.4s] phi5 trial  3 PROF      falsified=False S=200 sims=205 T_T=13.734ms wall=29.3s cap
+[174/320   415.8s] phi5 trial  4 SBO-RTAMT falsified=True S=119 sims=124 T_T=50.303ms wall=10.6s falsified
+[175/320   420.0s] phi5 trial  5 PBO-RTAMT falsified=True S=53 sims=58 T_T=23.526ms wall=4.2s falsified
+[176/320   420.7s] phi5 trial  3 SMuRF     falsified=False S=200 sims=205 T_T=33.152ms wall=25.4s cap
+[177/320   421.8s] phi5 trial  3 PBO-RTAMT falsified=False S=200 sims=205 T_T=88.670ms wall=29.5s cap
+[178/320   424.8s] phi5 trial  5 SBO-RTAMT falsified=True S=54 sims=59 T_T=25.839ms wall=4.1s falsified
+[179/320   425.2s] phi5 trial  3 SBO-RTAMT falsified=False S=200 sims=205 T_T=87.308ms wall=29.7s cap
+[180/320   425.7s] phi5 trial  4 PROF      falsified=False S=200 sims=205 T_T=10.792ms wall=28.0s cap
+[181/320   427.4s] phi5 trial  4 PBO-RTAMT falsified=False S=200 sims=205 T_T=85.997ms wall=29.0s cap
+[182/320   430.4s] phi5 trial  6 PBO-RTAMT falsified=True S=68 sims=73 T_T=30.473ms wall=5.6s falsified
+[183/320   431.3s] phi5 trial  4 SMuRF     falsified=False S=200 sims=205 T_T=38.271ms wall=26.5s cap
+[184/320   435.9s] phi5 trial  5 PROF      falsified=False S=200 sims=205 T_T=12.839ms wall=26.4s cap
+[185/320   440.0s] phi5 trial  7 SBO-RTAMT falsified=True S=52 sims=57 T_T=32.506ms wall=4.2s falsified
+[186/320   445.3s] phi5 trial  5 SMuRF     falsified=False S=200 sims=205 T_T=34.721ms wall=25.3s cap
+[187/320   448.6s] phi5 trial  6 PROF      falsified=False S=200 sims=205 T_T=12.874ms wall=26.8s cap
+[188/320   452.4s] phi5 trial  6 SBO-RTAMT falsified=False S=200 sims=205 T_T=87.084ms wall=26.7s cap
+[189/320   453.8s] phi5 trial  6 SMuRF     falsified=False S=200 sims=205 T_T=36.119ms wall=28.5s cap
+[190/320   455.9s] phi5 trial  7 PROF      falsified=False S=200 sims=205 T_T=11.236ms wall=28.4s cap
+[191/320   459.7s] phi5 trial  7 PBO-RTAMT falsified=False S=200 sims=205 T_T=91.346ms wall=29.2s cap
+[192/320   459.8s] phi5 trial  7 SMuRF     falsified=False S=200 sims=205 T_T=32.745ms wall=28.5s cap
+[193/320   468.6s] phi5 trial  9 SBO-RTAMT falsified=True S=95 sims=100 T_T=48.099ms wall=8.8s falsified
+[194/320   469.1s] phi5 trial  8 PROF      falsified=False S=200 sims=205 T_T=15.005ms wall=29.0s cap
+[195/320   470.6s] phi5 trial 10 PBO-RTAMT falsified=True S=17 sims=22 T_T=8.925ms wall=1.5s falsified
+[196/320   472.6s] phi5 trial  8 PBO-RTAMT falsified=False S=200 sims=205 T_T=80.516ms wall=27.2s cap
+[197/320   474.6s] phi5 trial  9 PBO-RTAMT falsified=True S=158 sims=163 T_T=63.900ms wall=18.8s falsified
+[198/320   475.0s] phi5 trial 10 SBO-RTAMT falsified=True S=29 sims=34 T_T=14.556ms wall=2.4s falsified
+[199/320   475.3s] phi5 trial  8 SMuRF     falsified=False S=200 sims=205 T_T=49.537ms wall=26.7s cap
+[200/320   476.5s] phi5 trial 11 PBO-RTAMT falsified=True S=19 sims=24 T_T=8.899ms wall=1.5s falsified
+[201/320   479.4s] phi5 trial  9 PROF      falsified=False S=200 sims=205 T_T=10.579ms wall=25.7s cap
+[202/320   483.4s] phi5 trial  8 SBO-RTAMT falsified=False S=200 sims=205 T_T=86.745ms wall=30.9s cap
+[203/320   486.1s] phi5 trial  9 SMuRF     falsified=False S=200 sims=205 T_T=38.467ms wall=26.4s cap
+[204/320   486.9s] phi5 trial 12 PBO-RTAMT falsified=True S=41 sims=46 T_T=15.454ms wall=3.5s falsified
+[205/320   496.4s] phi5 trial 10 PROF      falsified=False S=200 sims=205 T_T=9.919ms wall=27.8s cap
+[206/320   497.1s] phi5 trial 10 SMuRF     falsified=False S=200 sims=205 T_T=37.516ms wall=26.5s cap
+[207/320   502.6s] phi5 trial 11 SMuRF     falsified=False S=200 sims=205 T_T=29.815ms wall=27.2s cap
+[208/320   502.7s] phi5 trial 11 SBO-RTAMT falsified=False S=200 sims=205 T_T=77.775ms wall=26.1s cap
+[209/320   503.2s] phi5 trial 11 PROF      falsified=False S=200 sims=205 T_T=11.413ms wall=28.5s cap
+[210/320   506.7s] phi5 trial 12 PROF      falsified=False S=200 sims=205 T_T=18.749ms wall=27.2s cap
+[211/320   509.0s] phi5 trial 14 PBO-RTAMT falsified=True S=24 sims=29 T_T=12.147ms wall=2.3s falsified
+[212/320   513.2s] phi5 trial 12 SMuRF     falsified=False S=200 sims=205 T_T=36.037ms wall=27.1s cap
+[213/320   514.4s] phi5 trial 12 SBO-RTAMT falsified=False S=200 sims=205 T_T=85.437ms wall=27.5s cap
+[214/320   517.0s] phi5 trial 14 SBO-RTAMT falsified=True S=41 sims=46 T_T=20.649ms wall=3.7s falsified
+[215/320   525.2s] phi5 trial 13 PROF      falsified=False S=200 sims=205 T_T=9.574ms wall=28.8s cap
+[216/320   527.0s] phi5 trial 13 PBO-RTAMT falsified=False S=200 sims=205 T_T=81.382ms wall=29.8s cap
+[217/320   528.0s] phi5 trial 15 PBO-RTAMT falsified=True S=106 sims=111 T_T=48.706ms wall=11.0s falsified
+[218/320   529.2s] phi5 trial 13 SMuRF     falsified=False S=200 sims=205 T_T=35.371ms wall=26.6s cap
+[219/320   531.1s] phi5 trial 13 SBO-RTAMT falsified=False S=200 sims=205 T_T=93.194ms wall=28.4s cap
+[220/320   534.1s] phi5 trial 14 SMuRF     falsified=False S=200 sims=205 T_T=44.588ms wall=25.2s cap
+[221/320   534.8s] phi5 trial 14 PROF      falsified=False S=200 sims=205 T_T=11.073ms wall=31.6s cap
+[222/320   537.4s] phi5 trial 15 SBO-RTAMT falsified=True S=106 sims=111 T_T=44.147ms wall=10.4s falsified
+[223/320   539.2s] phi5 trial 17 PBO-RTAMT falsified=True S=20 sims=25 T_T=8.571ms wall=1.8s falsified
+[224/320   543.9s] phi5 trial 15 PROF      falsified=False S=200 sims=205 T_T=7.575ms wall=29.4s cap
+[225/320   544.6s] phi5 trial 17 SBO-RTAMT falsified=True S=7 sims=12 T_T=3.819ms wall=0.7s falsified
+[226/320   552.7s] phi5 trial 15 SMuRF     falsified=False S=200 sims=205 T_T=41.423ms wall=27.4s cap
+[227/320   556.4s] phi5 trial 16 PROF      falsified=False S=200 sims=205 T_T=13.900ms wall=28.4s cap
+[228/320   557.2s] phi5 trial 16 PBO-RTAMT falsified=False S=200 sims=205 T_T=82.421ms wall=28.0s cap
+[229/320   561.5s] phi5 trial 17 PROF      falsified=False S=200 sims=205 T_T=10.634ms wall=26.7s cap
+[230/320   561.6s] phi5 trial 16 SMuRF     falsified=False S=200 sims=205 T_T=35.184ms wall=30.5s cap
+[231/320   562.7s] phi5 trial 19 PBO-RTAMT falsified=True S=13 sims=18 T_T=9.273ms wall=1.1s falsified
+[232/320   569.8s] phi5 trial 17 SMuRF     falsified=False S=200 sims=205 T_T=39.078ms wall=30.6s cap
+[233/320   574.8s] phi5 trial 16 SBO-RTAMT falsified=False S=200 sims=205 T_T=86.313ms wall=40.6s cap
+[234/320   574.8s] phi4 trial  0 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[235/320   574.8s] phi4 trial  0 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[236/320   574.8s] phi4 trial  0 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[237/320   574.8s] phi4 trial  0 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[238/320   574.8s] phi4 trial  1 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[239/320   574.8s] phi4 trial  1 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[240/320   574.8s] phi4 trial  1 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[241/320   574.8s] phi4 trial  1 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[242/320   574.8s] phi4 trial  2 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[243/320   574.8s] phi4 trial  2 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[244/320   574.8s] phi4 trial  2 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[245/320   574.8s] phi4 trial  2 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[246/320   574.8s] phi4 trial  3 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[247/320   574.8s] phi4 trial  3 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[248/320   574.8s] phi4 trial  3 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[249/320   574.8s] phi4 trial  3 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[250/320   574.8s] phi4 trial  4 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[251/320   574.8s] phi4 trial  4 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[252/320   574.8s] phi4 trial  4 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[253/320   574.8s] phi4 trial  4 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[254/320   574.8s] phi4 trial  5 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[255/320   574.8s] phi4 trial  5 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[256/320   574.8s] phi4 trial  5 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[257/320   574.8s] phi4 trial  5 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[258/320   574.8s] phi4 trial  6 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[259/320   574.8s] phi4 trial  6 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[260/320   574.8s] phi4 trial  6 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[261/320   574.8s] phi4 trial  6 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[262/320   574.8s] phi4 trial  7 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[263/320   574.8s] phi4 trial  7 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[264/320   574.8s] phi4 trial  7 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[265/320   574.8s] phi4 trial  7 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[266/320   574.9s] phi4 trial  8 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[267/320   574.9s] phi4 trial  8 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[268/320   574.9s] phi4 trial  8 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[269/320   574.9s] phi4 trial  8 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[270/320   574.9s] phi4 trial  9 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[271/320   574.9s] phi4 trial  9 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[272/320   574.9s] phi4 trial  9 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[273/320   574.9s] phi4 trial  9 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[274/320   574.9s] phi4 trial 10 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[275/320   574.9s] phi4 trial 10 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[276/320   574.9s] phi4 trial 10 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[277/320   574.9s] phi4 trial 10 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[278/320   574.9s] phi4 trial 11 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[279/320   574.9s] phi4 trial 11 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[280/320   574.9s] phi4 trial 11 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[281/320   574.9s] phi4 trial 11 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[282/320   574.9s] phi4 trial 12 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[283/320   574.9s] phi4 trial 12 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[284/320   574.9s] phi4 trial 12 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[285/320   574.9s] phi4 trial 12 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[286/320   574.9s] phi4 trial 13 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[287/320   574.9s] phi4 trial 13 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[288/320   574.9s] phi4 trial 13 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[289/320   574.9s] phi4 trial 13 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[290/320   574.9s] phi4 trial 14 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[291/320   574.9s] phi4 trial 14 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[292/320   574.9s] phi4 trial 14 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[293/320   574.9s] phi4 trial 14 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[294/320   574.9s] phi4 trial 15 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[295/320   574.9s] phi4 trial 15 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[296/320   574.9s] phi4 trial 15 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[297/320   574.9s] phi4 trial 15 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[298/320   574.9s] phi4 trial 16 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[299/320   574.9s] phi4 trial 16 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[300/320   574.9s] phi4 trial 16 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[301/320   574.9s] phi4 trial 16 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[302/320   574.9s] phi4 trial 17 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[303/320   574.9s] phi4 trial 17 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[304/320   574.9s] phi4 trial 17 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[305/320   574.9s] phi4 trial 17 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[306/320   574.9s] phi4 trial 18 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[307/320   574.9s] phi4 trial 18 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[308/320   574.9s] phi4 trial 18 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[309/320   574.9s] phi4 trial 18 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[310/320   574.9s] phi4 trial 19 PROF      falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[311/320   574.9s] phi4 trial 19 PBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[312/320   574.9s] phi4 trial 19 SMuRF     falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[313/320   574.9s] phi4 trial 19 SBO-RTAMT falsified=False S=None sims=0 T_T=nanms wall=0.0s not-applicable: empty language
+[314/320   575.6s] phi5 trial 18 SBO-RTAMT falsified=True S=155 sims=160 T_T=66.561ms wall=18.4s falsified
+[315/320   575.9s] phi5 trial 18 PROF      falsified=False S=200 sims=205 T_T=13.702ms wall=31.2s cap
+[316/320   580.0s] phi5 trial 18 PBO-RTAMT falsified=False S=200 sims=205 T_T=79.318ms wall=27.3s cap
+[317/320   583.3s] phi5 trial 18 SMuRF     falsified=False S=200 sims=205 T_T=31.724ms wall=26.8s cap
+[318/320   585.0s] phi5 trial 19 PROF      falsified=False S=200 sims=205 T_T=11.646ms wall=23.5s cap
+[319/320   586.1s] phi5 trial 19 SBO-RTAMT falsified=True S=170 sims=175 T_T=60.156ms wall=16.3s falsified
+[320/320   587.4s] phi5 trial 19 SMuRF     falsified=False S=200 sims=205 T_T=31.295ms wall=24.7s cap

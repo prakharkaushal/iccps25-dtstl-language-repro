@@ -1,0 +1,109 @@
+{
+ "experiment": "falsification",
+ "run_id": "findbox_besteffort",
+ "created": "2026-10-18T23:27:44",
+ "sessions": [
+  {
+   "started": "2026-10-18T23:27:44",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/falsification_findbox_besteffort.yaml",
+    "--run-id",
+    "findbox_besteffort",
+    "--specs",
+    "phi2",
+    "phi4",
+    "phi5",
+    "--workers",
+    "8"
+   ],
+   "source_sha256": "ebb7c1956c5d067fe7fb52a015a981ea249eeda751d052a5cf4f5c332cb0f0df",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-18T23:41:23",
+   "n_new_records": 240,
+   "elapsed_s": 819.3
+  },
+  {
+   "started": "2026-10-19T02:51:31",
+   "argv": [
+    "experiments/run_falsification.py",
+    "--config",
+    "configs/falsification_findbox_besteffort.yaml",
+    "--run-id",
+    "findbox_besteffort",
+    "--specs",
+    "phi3",
+    "--workers",
+    "10"
+   ],
+   "source_sha256": "ebb7c1956c5d067fe7fb52a015a981ea249eeda751d052a5cf4f5c332cb0f0df",
+   "environment": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "cpu_count": 12,
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "rtamt": "0.3.5",
+    "antlr4-python3-runtime": "4.7",
+    "ram_gb": 15.7
+   },
+   "finished": "2026-10-19T03:53:17",
+   "n_new_records": 80,
+   "elapsed_s": 3705.5
+  }
+ ],
+ "config": {
+  "experiment": "falsification",
+  "seed_base": 1000,
+  "n_trials": 20,
+  "specs": [
+   "phi1",
+   "phi2",
+   "phi3",
+   "phi4",
+   "phi5"
+  ],
+  "methods": [
+   "PROF",
+   "PBO-RTAMT",
+   "SMuRF",
+   "SBO-RTAMT"
+  ],
+  "cc": {
+   "horizon": 100.0,
+   "n_segments": 10,
+   "sample_dt": 10.0
+  },
+  "bo": {
+   "n_init": 5,
+   "max_iter": 200,
+   "n_uniform": 1000,
+   "n_local": 1000,
+   "local_scales": [
+    0.02,
+    0.1
+   ],
+   "top_k": 5,
+   "xi": 0.0
+  },
+  "language": {
+   "source": "findbox",
+   "run": "main",
+   "variant": "besteffort"
+  }
+ }
+}

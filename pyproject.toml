@@ -1,0 +1,13 @@
+[project]
+name = "langfal"
+version = "0.1.0"
+description = "Reproduction of 'Falsification and Control of CPS using the Language Set of Discrete-Time Temporal Logic' (ICCPS 2025)"
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "scikit-learn", "PyYAML", "rtamt==0.3.5", "antlr4-python3-runtime==4.7"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+filterwarnings = [
+    "ignore::sklearn.exceptions.ConvergenceWarning",
+]

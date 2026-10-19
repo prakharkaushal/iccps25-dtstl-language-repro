@@ -1,0 +1,10 @@
+10 FindBox runs -> C:\Users\prana\OneDrive\Desktop\target_project\results\raw\findbox\main
+[    5.5s] default phi4: boxes=0 inside=0/1001 oracle_calls=1001 time=0s over_bad=0/0 under_bad=0/0
+[    7.1s] default phi2: boxes=1 inside=1/1001 oracle_calls=14770 time=2s over_bad=0/333 under_bad=1/1
+[    7.4s] default phi5: boxes=1 inside=1/1001 oracle_calls=14770 time=2s over_bad=0/333 under_bad=1/1
+[  124.2s] besteffort phi2: boxes=5 inside=5/1000 oracle_calls=1008747 time=119s over_bad=0/1005 under_bad=1/3
+[  145.7s] besteffort phi5: boxes=5 inside=5/1000 oracle_calls=1008747 time=140s over_bad=0/1005 under_bad=0/2
+[  520.8s] default phi3: boxes=54 inside=96/1001 oracle_calls=1150627 time=515s over_bad=0/1038 under_bad=10/87
+[  763.2s] besteffort phi4: boxes=53 inside=57/1000 oracle_calls=3107456 time=757s over_bad=886/1023 under_bad=0/0
+[ 4365.4s] default phi1: boxes=3 inside=1001/1001 oracle_calls=13459623 time=4360s over_bad=1/667 under_bad=223/1000
+[ 9306.8s] besteffort phi3: boxes=108 inside=276/1000 oracle_calls=5155409 time=9301s over_bad=0/1063 under_bad=35/212

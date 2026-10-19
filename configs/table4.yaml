@@ -1,0 +1,19 @@
+# E4: paper Table 4 (box difficulty). Same seeds, model and BO settings as falsification.yaml so that
+# PROF-all's first falsification (S_min) can be checked against PROF's iteration count per trial.
+experiment: table4
+seed_base: 1000
+n_trials: 20
+specs: [phi1, phi2, phi3, phi4, phi5]
+methods: [PROF-all, SEQ-BO]     # D13: modified PROF -> S_min/S_max; sequential BO -> S, T_T, T_M
+cc:
+  horizon: 100.0
+  n_segments: 10
+  sample_dt: 10.0
+bo:
+  n_init: 5
+  max_iter: 200
+  n_uniform: 1000
+  n_local: 1000
+  local_scales: [0.02, 0.1]
+  top_k: 5
+  xi: 0.0
