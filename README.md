@@ -7,10 +7,12 @@ our results differ. The code is a Python package (`langfal`).
 
 **Start here.**
 1. [What the paper claims and what we found](#1-results-at-a-glance): this README, about 5 minutes.
-2. [REPRODUCIBILITY_REPORT.md](REPRODUCIBILITY_REPORT.md): the final audit, with a requirement checklist, the
+2. [PROJECT_WALKTHROUGH.md](PROJECT_WALKTHROUGH.md): the story of the project in plain words. It covers what we did
+   in each phase and why, the problems we hit, a 2-minute summary and likely questions.
+3. [REPRODUCIBILITY_REPORT.md](REPRODUCIBILITY_REPORT.md): the final audit, with a requirement checklist, the
    evidence for every result, the discrepancies and the limitations.
-3. [DEVIATIONS.md](DEVIATIONS.md): every place where we had to decide something the paper does not state.
-4. [PROGRESS.md](PROGRESS.md): a chronological log of what was done, when, and on whose request.
+4. [DEVIATIONS.md](DEVIATIONS.md): every place where we had to decide something the paper does not state.
+5. [PROGRESS.md](PROGRESS.md): a chronological log of what was done, when, and on whose request.
 
 **Labels used throughout.** `[paper]` = reported in Paper.pdf. `[ours]` = measured by our runs. `[derived]` =
 arithmetic on either. **No number of ours is presented as a reproduction of an exact paper value.**
